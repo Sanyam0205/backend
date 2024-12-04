@@ -12,19 +12,19 @@ require('./config/passportConfig');
 
 const app = express();
 
-app.use(cors({ credentials: true, origin: 'http://localhost:3000' }));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 const corsOptions = {
-  origin: 'http://localhost:3000', // Your front-end origin
-  credentials: true, // Allow cookies and credentials
+  origin: 'http://localhost:3000', // Front-end origin
+  credentials: true,              // Allow cookies and credentials
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE', // Allowed methods
+  allowedHeaders: 'Content-Type,Authorization', // Custom headers
 };
 
-// Enable CORS for all routes
 app.use(cors(corsOptions));
 
-// Explicitly handle OPTIONS requests for preflight
+// Explicitly handle OPTIONS requests globally
 app.options('*', cors(corsOptions)); // Handle preflight requests
 app.use(
   session({
