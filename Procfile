@@ -1,1 +1,1 @@
-web: npm run start
+web: cd express_server && npm run start
