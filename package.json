@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "concurrently \"npm run fastapi\"",
     "server": "nodemon express_server/server.js",
-    "fastapi": "cd D:/projects/Backend_protopian/AcademiaAssistant/AcademiaAssistant/Summary && uvicorn main:app --reload"
+    "fastapi": "cd D:/projects/Backend_protopian/AcademiaAssistant/AcademiaAssistant/Summary && uvicorn main:app --reload",
+    "start": "nodemon express_server/login.js"
   },
   "keywords": [],
   "author": "",
