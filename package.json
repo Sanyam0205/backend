@@ -1,0 +1,19 @@
+{
+  "name": "backend_protopian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"npm run fastapi\"",
+    "server": "nodemon express_server/server.js",
+    "fastapi": "cd D:/projects/Backend_protopian/AcademiaAssistant/AcademiaAssistant/Summary && uvicorn main:app --reload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.1.0",
+    "nodemon": "^3.1.7"
+  }
+}

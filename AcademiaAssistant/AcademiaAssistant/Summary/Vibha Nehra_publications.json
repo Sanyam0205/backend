@@ -1,0 +1,161 @@
+{
+    "author": "Vibha Nehra",
+    "publication_mappings": [
+        {
+            "id": 1,
+            "title": "PEGASIS-E: power efficient gathering in sensor information system extended",
+            "research_subject": "Wireless Sensor Networks",
+            "research_area": "Energy Efficiency in Communication Protocols"
+        },
+        {
+            "id": 2,
+            "title": "Fuzzy-based leader selection for topology controlled PEGASIS protocol for lifetime enhancement in wireless sensor network",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 3,
+            "title": "I-DEEC: improved DEEC for blanket coverage in heterogeneous wireless sensor networks",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 4,
+            "title": "Blockchain implementation for Internet of Things applications",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 5,
+            "title": "NMR inspired energy efficient protocol for heterogeneous wireless sensor network",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 6,
+            "title": "Utility and Acceptability of AI-Enabled Chatbots on the Online Customer Journey in E-Retailing",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 7,
+            "title": "IoT based smart plant monitoring system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 8,
+            "title": "Trade-off analysis for different Sink locations in DEEC Protocol",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 9,
+            "title": "Development of Trading Bot for Stock Prediction Using Evolution Strategy",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 10,
+            "title": "Analysis of different consensus algorithms with development of blockchain based cryptocurrency and initial coin offering",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 11,
+            "title": "Topology controlled energy proficient protocol for wireless sensor networks",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 12,
+            "title": "Blockchain enabled ambient assisted living for critically ill patients",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 13,
+            "title": "A Survey of Text-to-Image Diffusion Models in Generative AI",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 14,
+            "title": "Fertilizer and Crop Recommendation using IoUT and Machine Learning",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 15,
+            "title": "FIEPE: fuzzy inspired energy efficient protocol for heterogeneous wireless sensor network",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 16,
+            "title": "Performance analysis of Precision Agriculture model using copula distribution and common cause Breakdown",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 17,
+            "title": "Hybrid model for software fault prediction",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 18,
+            "title": "Decentralized Digital Identity Verification System Using Blockchain Technology",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 19,
+            "title": "Vampire Bat Inspired Energy Efficient Protocol for Heterogeneous Wireless Sensor Networks",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 20,
+            "title": "C-SPIN: Classification of Satellite Images for Prediction Network",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 21,
+            "title": "Statistical Analysis and Decision making Strategy for Complete Blood Count Parameters as a Screening in Microcytic Anemia",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 22,
+            "title": "Stock Prediction Using Evolution Strategy",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 23,
+            "title": "Energy Efficiency in Heterogeneous Wireless Sensor Networks and Blockchain",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 24,
+            "title": "I-DEEC: improved DEEC for blanket coverage in heterogeneous wireless sensor networks.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 25,
+            "title": "FIEPE: Fuzzy Inspired Energy Efficient Protocol for Heterogeneous Wireless Sensor Network.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 26,
+            "title": "NMR inspired energy efficient protocol for heterogeneous wireless sensor network.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        }
+    ]
+}

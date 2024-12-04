@@ -1,0 +1,2725 @@
+{
+    "author": "Deepti Mehrotra",
+    "h_index": 24,
+    "i10_index": 61,
+    "publications": [
+        {
+            "title": "Comparative Review of Selection Techniques in Genetic Algorithm",
+            "publication year": {
+                "year": 2015
+            },
+            "source": "Google Scholar",
+            "url": "https://ieeexplore.ieee.org/document/7154916/",
+            "authors": [
+                "Anupriya Shukla",
+                "Hari Mohan Pandey",
+                "Deepti Mehrotra"
+            ],
+            "summary": "This paper provides a comparative analysis of various selection techniques utilized in genetic algorithms (GAs), which are heuristic optimization search algorithms based on principles of natural selection and 'survival of the fittest.' It emphasizes the critical role of selection mechanisms in addressing challenges like premature convergence, which can occur due to a lack of diversity within a population. The authors highlight that identifying the proper selection method is essential for maintaining population diversity across generations, ultimately influencing the efficacy of the genetic algorithm. The study aggregates significant research contributions on multiple selection techniques and outlines the comparative performance of these methods in optimizing generative outputs. The findings are presented in the context of the International Conference on Futuristic Trends in Computational Analysis and Knowledge Management, held in Greater Noida, India, in February 2015.",
+            "scraper_summary": "Loading \\[a11y\\]/accessibility-menu.js\n\nComparative review of selection techniques in genetic algorithm \\| IEEE Conference Publication \\| IEEE Xplore\n\nSkip to Main Content\n\n# Comparative review of selection techniques in genetic algorithm\n\nPublisher: IEEE\n\nCite This\n\n[PDF](javascript:void() \"You do not have access to this PDF\")\n\n[Anupriya Shukla](/author/37085562594); [Hari Mohan Pandey](/author/37602107900); [Deepti Mehrotra](/author/37589565500)\n\n[All Authors](javascript:void())\n\nSign In or Purchase\n\n115\n\nCites in\n\nPapers\n\n3886\n\nFull\n\nText Views\n\n- [Download References](javascript:void())\n- [Copyright request permission for reuse](javascript:void())\n- [Sign In with personal account required for save to project](javascript:void())\n- [Alerts](javascript:void())\n\n\n\n[Manage Content Alerts](/alerts/citation)\n\n\n\n[Add to Citation Alerts](javascript:void())\n\n\n* * *\n\n- Download PDF\n- [Download References](javascript:void())\n- Request Permissions\n- Save to\n- Alerts\n\n## Abstract:\n\nThis paper compares various selection techniques used in Genetic Algorithm. Genetic algorithms are optimization search algorithms that maximize or minimizes given functio...View more\n\n## Metadata\n\n## Abstract:\n\nThis paper compares various selection techniques used in Genetic Algorithm. Genetic algorithms are optimization search algorithms that maximize or minimizes given functions. Indentifying the appropriate selection technique is a critical step in genetic algorithm. The process of selection plays an important role in resolving premature convergence because it occurs due to lack of diversity in the population. Therefore selection of population in each generation is very important. In this study, we have reported the significant work conducted on various selection techniques and the comparison of selection techniques.\n\n**Published in:** [2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE)](/xpl/conhome/7145339/proceeding)\n\n**Date of Conference:** 25-27 February 2015\n\n**Date Added to IEEE _Xplore_:** 13 July 2015\n\n**ISBN Information:**\n\n**DOI:** [10.1109/ABLAZE.2015.7154916](https://doi.org/10.1109/ABLAZE.2015.7154916)\n\nPublisher: IEEE\n\n**Conference Location:** Greater Noida, India\n\n![](/assets/img/document/toc-icon.png) Contents\n\n* * *\n\n### I. Introduction\n\nThe focus of this paper is towards comparative analysis of different selection techniques used in genetic algorithms (GAs). GAs are \u201cadaptive heuristic search algorithms\u201d that are designed to mimic Darwin's principle of \u201csurvival of the fittest\u201d \\[22\\]. Which includes the following approach: individuals within a population compete for resources and the individuals that are most successful in the competition will produce offspring instead of those who didn't get success. Genes are transmitted over generations where pair of individuals get selected to produce better results/offspring in next generations \\[17\\]. Therefore, the individual that emerges out at the end is the fittest and more dominating than the weaker ones.\n\nFig. 1.\n\nSteps involved in simple genetic algorithm \\[16\\]\n\nSign in to Continue Reading\n\nAuthors\n\nFigures\n\nReferences\n\nCitations\n\nKeywords\n\nMetrics\n\nMore Like This\n\n[Equal-Width Partitioning Roulette Wheel Selection in Genetic Algorithm](/document/6395007/)\n\n2012 Conference on Technologies and Applications of Artificial Intelligence\n\nPublished: 2012\n\n[Improved Roulette Wheel Selection-Based Genetic Algorithm for TSP](/document/7945968/)\n\n2016 International Conference on Network and Information Systems for Computers (ICNISC)\n\nPublished: 2016\n\n[Show More](javascript:void())\n\n**References is not available for this document.**\n\n### IEEE Account\n\n- [Change Username/Password](https://www.ieee.org/profile/changeusrpwd/showChangeUsrPwdPage.html?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n- [Update Address](https://www.ieee.org/profile/address/getAddrInfoPage.html?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n\n### Purchase Details\n\n- [Payment Options](https://www.ieee.org/profile/payment/showPaymentHome.html?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n- [Order History](https://www.ieee.org/profile/vieworder/showOrderHistory.html?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n- [View Purchased Documents](/articleSale/purchaseHistory.jsp)\n\n### Profile Information\n\n- [Communications Preferences](https://www.ieee.org/ieee-privacyportal/app/ibp?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n- [Profession and Education](https://www.ieee.org/profile/profedu/getProfEduInformation.html?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n- [Technical Interests](https://www.ieee.org/profile/tips/getTipsInfo.html?refSite=https://ieeexplore.ieee.org&refSiteName=IEEE Xplore)\n\n### Need Help?\n\n- **US & Canada:** +1 800 678 4333\n- **Worldwide:** +1 732 981 0060\n\n- [Contact & Support](/xpl/contact)\n\n- [About IEEE _Xplore_](/Xplorehelp/overview-of-ieee-xplore/about-ieee-xplore)\n- [Contact Us](/xpl/contact)\n- [Help](/Xplorehelp)\n- [Accessibility](/Xplorehelp/overview-of-ieee-xplore/accessibility-statement)\n- [Terms of Use](/Xplorehelp/overview-of-ieee-xplore/terms-of-use)\n- [Nondiscrimination Policy](http://www.ieee.org/web/aboutus/whatis/policies/p9-26.html)\n- [Sitemap](/xpl/sitemap.jsp)\n- [Privacy & Opting Out of Cookies](http://www.ieee.org/about/help/security_privacy.html)\n\nA not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.\n\n\u00a9 Copyright 2024 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.\n\n\n[iframe](https://service.seamlessaccess.org/ps/)",
+            "citations": 323,
+            "research_subject": "Artificial Intelligence",
+            "research_area": "Genetic Algorithms"
+        },
+        {
+            "title": "A comparative review of approaches to prevent premature convergence in GA",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Performance comparison of time series data using predictive data mining techniques",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Evaluation of smartphones in Indian market using EDAS",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Rank university websites using fuzzy AHP and fuzzy TOPSIS approach on usability",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Issues in achieving complete interoperability while sharing electronic health records",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Usability evaluation of website using combined weighted method: fuzzy AHP and entropy approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An IOT by information retrieval approach: Smart lights controlled using WiFi",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "FAHP Approach to  Rank  Educational  Websites on Usability",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Learner Groups in Massive Open Online Courses",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Identifying knowledge indicators in higher education organization",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ProBlock: a novel approach for fake news detection",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ANFIS method for usability assessment of website of an educational institute",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Data mining approach to analyse the road accidents in India",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Grammar induction using bit masking oriented genetic algorithm and comparative analysis",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Genetic algorithms: concepts, issues and a case study of grammar induction",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Evaluation of Genetic Algorithm\u2019s Selection Methods",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparative analysis of edge-based fractal image compression using nearest neighbor technique in various frequency domains",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Predicting the protein structure using random forest approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Mobile applications usability parameters: taking an insight view",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Delivery of learning knowledge objects using fuzzy clustering",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Accessible review of internet of vehicle models for intelligent transportation and research gaps for potential future directions",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Proposing hierarchy-similarity based access control framework: A multilevel Electronic Health Record data sharing approach for interoperable environment",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Performance analysis of student learning metric using K-mean clustering approach K-mean cluster",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analytical evaluation of agile success factors influencing quality in software industry",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Quality, reliability, security and robustness in heterogeneous networks",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "User centric retrieval of learning objects in LMS",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Challenges and recommendations to healthcare data exchange in an interoperable environment",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Multiclass classification of mobile applications as per energy consumption",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Results of mapping patients expectation using SERVQUAL",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A naive bayes approach for converging learning objects with open educational resources",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A metric focused performance assessment of fog computing environments: A critical review",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Green software: Refactoring approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "SWRL reasoning on ontology-based clinical dengue knowledge base",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Recent Advances in Intelligent Informatics: Proceedings of the Second International Symposium on Intelligent Informatics (ISI'13), August 23-24 2013, Mysore, India",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Vibrational dynamics and heat capacity of poly (L-lysine)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparative analysis of multi-label classification algorithms",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Exploring interoperability approaches and challenges in healthcare data exchange",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The state of art in website usability evaluation methods",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis and Implementation of the Bray\u2013Curtis Distance-Based Similarity Measure for Retrieving Information from the Medical Repository: Bray\u2013Curtis Distance Similarity-Based \u2026",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Adaptive searchless fractal image compression in DCT domain",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Predicting faults before testing phase using Halstead\u2019s metrics",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Knowledge Enriched Learning by Converging Knowledge Object & Learning Object",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Knowledge building through optimized classification rule set generation using genetic based elitist multi objective approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of Sentiments for Sports data using RapidMiner",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An ensemble approach in converging contents of LMS and KMS",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparing data mining techniques for mining patents",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Threats and challenges to security of electronic health records",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Quality metrics a quanta for retrieving learning object by clustering techniques",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Achieving excellence through knowledge mapping in higher education institution",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "GSTChain: A blockchain network application for the goods and services tax",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "IoT based smart parking system",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Agglomerative hierarchical clustering technique for partitioning patent dataset",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Data Mining Approach to Improve Re-Accessibility and Delivery of Learning Knowledge Objects",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Enhanced learning by extending metadata of learning objects with knowledge objects",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Computational complexity of fractal image compression algorithm",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Digital image encoding scheme using fractal approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Prediction of carbon stock available in forest using naive Bayes approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Trend and network analysis of common eligibility features for cancer trials in ClinicalTrials. gov",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Phonon dispersion and heat capacity in cross-\u03b2 form of poly (O-acetyl, l-serine)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A study on RPL protocol with respect to DODAG formation using objective function",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Landscape analysis of patent dataset",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An access control framework for secured sharing of electronic health records using hierarchy similarity analyser",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparative Study of EM and K-means Clustering Techniques in WEKA interface",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A statistical comparison of digital image watermarking techniques",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Phonon dispersion and heat capacity of poly (l-aspartic acid)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Detection of vulnerabilities in blockchain smart contracts: a review",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Overcoming smart city barriers using multi-modal interpretive structural modeling",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Bit mask-oriented genetic algorithm for grammatical inference and premature convergence",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Voice assisted smart home automation system",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Trend analysis for retail chain using statistical analysis system",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Modelling fault detection using SRGM in agile environment and ranking of models",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Role of decision tree in supplementing tacit knowledge for Hypothetico-Deduction in higher education",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Modelling fault detection with change-point in agile software development environment",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of code smell to quantify the refactoring",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Implementation of genetic algorithm for developing knowledge centric environment in higher education",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Hybrid edge-based fractal image encoding using K-NN search",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Objective Assessment in Java Programming Language Using Rubrics",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Spatial and temporal trends reveal: Hotspot identification of crimes using machine learning approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Two-stage cbr based healthcare model to diagnose liver disease",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Measuring code smells and anti-patterns",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "RDF Model Generation for Unstructured Dengue Patients' Clinical and Pathological Data",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparative analysis of ranking functions for retrieving information from medical repository",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Metaheuristic policies for discovery task programming matters in cloud computing",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Building CBR based diagnosis system using jCOLIBRI",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A push strategy for delivering of Learning Objects using meta data based association analysis (FP-Tree)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Detecting and Dealing with Malicious Nodes Problem in MANET",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Normal modes and their dispersion in poly (\u03b1-isobutyl, \u03b2-l-aspartate): II. 13/4 Helix",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Network efficient topology for low power and lossy networks in smart corridor design using RPL",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Query optimization in crowd-sourcing using multi-objective ant lion optimizer",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "To calculate the usability of healthcare mobile applications using cognitive walkthrough",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of Factors Affecting Infant Mortality Rate Using Decision Tree in R Language",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Clustering the Patent Data Using K-Means Approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analyse power consumption by mobile applications using fuzzy clustering approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Prioritizing the refactoring need for critical component using combined approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analytical modelling approach to measure the usability of website",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Applying CHAID algorithm to investigate critical attributes of secured interoperable health data exchange",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Similarity Based Convergence of Learning  Knowledge Objects and Delivery Using  Agglomerative Clustering",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Schemes and Practices of Learning Object Repository: A Literature Review",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Information retrieval system assigning context to documents by Relevance feedback",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Normal modes and their dispersion in poly (\u03b1-isobutyl-\u03b2-l-aspartate): I. 4/1 Helix",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A novel random forest approach to predict phase transition",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Agile testing efficiency using an integrated approach of fuzzy-based MOORA and AHP",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A literature review of critical success factors in agile testing method of software development",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An r2rml-based approach to map dengue patient database to ontology",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Label powerset based multi-label classification for mobile applications",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Diagnosis of diabetic nature of a person using SVM and ANN approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Application of decision tree for understanding Indian educational scenario",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Designing metrics for caching techniques for dynamic web site",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Phonons and their dispersion in poly(S\u2010benzyl\u2010L\u2010cysteine)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Multistep transitions in collagens",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Handwriting analysis ai-based system for assisting people with dysgraphia",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Interoperability of electronic health records for dyslipidemia using knowledge graphs",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Scalability in Blockchain-Hyperledger Fabric and Hierarchical Model",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Optimizing ambulance deployment using genetic algorithm",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Code Smell Refactoring for Energy Optimization of Android Apps",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis on protocol-based intrusion detection system using artificial intelligence",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Determining protein conformation using vibrational frequencies: an ensemble approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Self-power generating indoor air purifier robot",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Ranking the access control models for secured sharing of EHR using fuzzy TOPSIS technique",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A novel multi-parameter tuned optimizer for information retrieval based on particle swarm optimization",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An Emperical Study: Relevance Feedback in Information Retrieval Systems",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Task based effectiveness evaluation of educational institute websites",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Measuring informativeness of a web document",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Genetic-Based Weighted Aggregation Model for Optimization of Student\u2019s Performance in Higher Education",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Effective curriculum development through rule induction in knowledge centric higher education organization",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Phonon dispersion in 1, 4-cis-poly-(2-methyl-1, 3-pentadiene)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Dispersion of normal modes in 1, 4-trans-poly (1, 3-pentadiene)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Breaking barriers: paving the path to sustainable fashion\u2013insights for a greener apparel and textile sector",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A multi-objective fitness dependent optimizer for workflow scheduling",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A new approach to simulate the dynamic behavior of particulate matter using a canny edge detector embedded PIV algorithm",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Benchmarking the Bagging and Boosting (B & B) Algorithms for Modeling Optimized Autonomous Intrusion Detection Systems (AIDS)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Knowledge Representation and Information Retrieval from Ontologies",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A RDF model-based predictive model on dengue patients' diagnostic PDF reports",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Transformation of Logistics Value Chain for Enhancing Cross-Border Trade Using Blockchain and IoT",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Constituent vs Dependency Parsing-Based RDF Model Generation from Dengue Patients\u2019 Case Sheets",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A convergence time predictive model using machine learning for LLN",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Assessing the Supervised Machine Learning Algorithms for Human Activity Recognition Using Smartphone",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Identifying the best network security using EDAS",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Implementation of quasi-euclidean distance-based similarity model for retrieving information from OHSUMED dataset",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Enhancing ontology by integrating facts from unstructured data and mapping with linguistic knowledge",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Complexity metrics for component-based software system",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Navigational complexity metrics of a website",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Pubworld-A R2RML mapping driven approach to transform relational database data into shareable format",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Relevance Feedback on Mobile Data Using RapidMiner",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analytical Review on Image Compression Using Fractal Image Coding",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The relationship between user preferences in interactive information retrieval evaluation",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Data Convergence Techniques from different from Different Health Records into Single Platform -A survey",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of Software Fault Prediction Metrics",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Emerging new trends in transmission of real time application (VoIP) to NGN by RTP",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Reinforcement Learning Model for Detecting Phishing Websites",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Smart Contract Vulnerabilities: Exploring the Technical and Economic Aspects",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Scalability Performance Analysis of Blockchain Using Hierarchical Model in Healthcare",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analyzing the Performance of Nature-Inspired Optimization Algorithms with Modified Grey Wolf Optimization for VM Migration Problems",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Predicting the future trends for circular economy",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Enhancing the website usage using process mining",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Imputation Techniques Analysis for Incomplete Medical Datasets in Case-Based Reasoning System",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Enhancing RPL using E-MOF: a fuzzy-based mobility model for IoV",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The Analysis of Time Series Data",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Applications of Big Five Personality Test in Job Performance",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Addressing Scalability Issues in Blockchain: A Use case from Healthcare",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Review for Cyber Security Challenges on Big Data Using Machine Learning Techniques",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Estimation of Particulate Matter PM2.5 Concentration using Random Forest Regressor with Hyperparameter Tuning",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The facets of machine learning in lane change prediction of vehicular traffic flow",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Is refactoring a solution to resolve code smell?",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Extensive Feature Analysis and Baseline Model for Stance Detection Task",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Socialization between quarantine vehicle and road side unit for handling covid-19: A concept",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Implementing Deep Learning Algorithm on Physicochemical Properties of Proteins",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Scalability in Blockchain",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Establishing Inter-vehicle communication using simulation tools",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Model Analysis of Collaborative-Based Recommender System",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Measuring and evaluating best practices in Agile testing environment using AHP",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Dynamic Access Control Solution for Cross-Tenancy in a Cloud Environment",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Image correlation method to simulate physical characteristic of particulate matter",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Particulate Matter Estimation Based on Haze Degree Factor",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Decision making on critical component using combined approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "New Metrics for Predicting the Reliability of Individual Component Based on Software Design Metrics",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Hierarchy similarity analyser-an approach to securely share electronic health records",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Information retrieval on green mining dataset using divergence from randomness models",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Field based weighting information retrieval on document field of Ad hoc dataset",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Conceptualizing smart city in indian prospective",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Electricity generating and monitoring system using IoT",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Relevance Index for Inferred Knowledge in Higher Education Domain Using Data Mining",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Designing ANFIS model to predict the reliability of component-based system",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Decision Tree Approach to Identify the Factors Affecting Reliability for Component-Based System",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparison and analysis of information retrieval DFR models",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An Adaptive Neuro-Fuzzy Model to Predict the Reliability before Testing Phase",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Identification of Criteria Affecting the Usability of Academic Institutes Websites",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Swarm and Evolutionary Computation",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Predicting Reliability from Frequent Errors Using A-priori Algorithm",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Coupling and reusability the design issues of software metric for component based system",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Dynamic Multi-Workflow Scheduling: A Comparative Analysis of Real-time Data",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Detection of vulnerabilities in blockchain smart contracts using deep learning",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Multivariate Time Series Forecasting of Municipal Solid Waste",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Framework for Blockchain-Enabled Smart Contract Management System of Arms and Ammunition for Defence Industry",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Dynamic Multi-Workflow Scheduling Analysis of Realtime Healthcare Ecosystem: An Emerging Research Area.",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Edge-Ward Computational Offloading for Smart Waste Management System",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of India\u2019s Regionally Disparate Recovery from the Second Wave of Coronavirus Using Machine Learning",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Audio Metadata Tagging",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Rule-Based Learner Competencies Predictor System",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Handwriting Analysis for Dysgraphia Using Machine Learning",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The Integration of Hadoop and a Smart Utility Scoring with a Case-Based Reasoning System for Managing Large and Complex Medical Case Base",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Study of Different Approaches of Offloading for Mobile Cloud Computing",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Combating Challenges in Health Care Using Blockchain",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Predicting the Secondary Structure of Proteins: A Deep Learning Approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Improvised Protocol for Enhancement of Security in Internet of Vehicles",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Correction: Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Intelligent Accident Rescue System",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Convergence Time Predictive Model using Machine Learning for LLN",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Multi Kernel Support Vector Machine for Particulate Matter Estimation",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Modelling and measuring attributes influencing agile implementation in an enterprise using structural equation modelling",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Usefulness of Rubric in Assessing Writing Skills Using Clustering",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Swift Approach for Malware Detection",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Internet Privacy Concerns and Social Awareness",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Health Measure Kit and Finding A Potential Covid-19 Suspect Using IoT",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Stylometric Analysis of Writing Patterns Using Artificial Neural Networks",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Optimal Feature Selection to Improve Vehicular Network Lifetime",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Identifying Quarantine Centers and Resource Allocation Using Optimization Techniques",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Correction to: Segregation of Speech and Music Signals for Aiding the Hearing Impaired",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of Crop Protection Techniques Involving IoT",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Segregation of Speech and Music Signals for Aiding the Hearing Impaired",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "An IoT enabled medical box",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Simulation and Performance Analysis of Tilted Time Window and Support Vector Machine Based Learning Object Ranking Method",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Early Reliability Prediction Model Integrating Halstead\u2019s Metrics and Fuzzy Usage",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "2021 4th International Conference on Recent Developments in Control, Automation &Power Engineering (RDCAPE) 7-8 October 2019 Department of Electrical & Electronics Engineering",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Break Point Analysis of Particulate Matter",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Efficient bandwidth utilization using reserved bits of transmission control protocol header",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis and visualization model for a GPS dataset of moving vehicle",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Automation of Business Cards",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparative Analysis of Wavelet Encoder and Hybrid Wavelet-Based Fractal Encoder for Image",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Evaluating the Refactoring Index Using Entropy Approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Cognitive Information Retrieval Using POP Inference Engine Approaches",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "White Noise Removal to Enhance Clarity of Sports Commentary",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Phenomenology Ethnomethodology analysis of\" website usability\"",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Spatial Mining of Web-Log to observe reachability of Website",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Web-Log Trend Pattern Analysis with Temporal Approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Mapping of the vector space model with cognitive skills of the user using fuzzy approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Feature selection approach for reducing the power consumption for a greener environment",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Inter-Operability In Incompatible Access Control Models",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "E-Commerce Website Design improvement based on Web usage Mining",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Comparison of Different Attributes of Authorship Data using Data Mining Approach",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The BMODS: A powerful 2-D representation scheme for the GA's population",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "[Final accepted version] Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A fuzzy association rule mining approach using movie lens dataset",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "New Weighted Clustering Approach to Map and Prioritise Learning Knowledge Objects towards Learning Approaches",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Accessibility Issues in Interoperable Sharing of Electronic Health Records: Physician\u2019s Perspective",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Year of Publication: 2015",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "International Journal of Emerging Technologies in Computational and Applied Sciences (IJETCAS) www. iasir. net",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Topic Sensitive & Preference Learning Based Solution For Information Retrieval From Learning Object Repository",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Computer Architecture",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Emerging New Trends in Transmission of Real Time Application(VOIP) to NGN By RTP",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ANALYSING AND SIMULATING USER FEEDBACK IN  NEURAL NETWORK",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Improving Network Reliability and QOS in EOIP Through Application Layer Signaling Protocol",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "\u201cRelevance feedback based semantic Learning object repository\u201d",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Vertical alveolar distraction in reconstructed or resorbed mandible: a clinical trial",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A Spectroscopic Study of Various Conformational States of Poly(\uf062-benzyl,L-aspartate)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A spectroscopic study of various conformational states of poly (\u03b2-benzyI, L-aspartate)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Chaitanya Singla 407",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Committee 2 Messages 5",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Maintaining Regularity and Generalization in Data using MDL and GA: Case of Grammatical Inference",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Middlesex University Research Repository",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Application of Decision Tree for understanding Indian Educational Scenario",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ICRITO\u20192017 Conference Committees",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Challenges and Recommendations to Healthcare Data Exchange in an Interoperable Environment",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ACCT 2015",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ICRITO 2014 Committee",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Triangulation of Mobile & Role of NMR (New Trends in Telecom Networks)",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Last Date of Paper Submission is 30 November, 2018 Authors can directly submit your research paper to editor@ ijritcc. org Authors can request for fast publicaton, So that \u2026",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Relevance Feedback Based Semantic Learning Object Repository",
+            "publication year": {},
+            "source": "Google Scholar",
+            "url": "",
+            "authors": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A multi-objective fitness dependent optimizer for workflow scheduling.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Predicting the future trends for circular economy.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analysis of India&apos;s Regionally Disparate Recovery from the Second Wave of Coronavirus Using Machine Learning.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Dynamic Multi-Workflow Scheduling: A Comparative Analysis of Real-time Data.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Correction: Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A RDF model-based predictive model on dengue patients&apos; diagnostic PDF reports.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "The Integration of Hadoop and a Smart Utility Scoring with a Case-Based Reasoning System for Managing Large and Complex Medical Case Base.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Benchmarking the Bagging and Boosting (B &amp; B) Algorithms for Modeling Optimized Autonomous Intrusion Detection Systems (AIDS).",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A new approach to simulate the dynamic behavior of particulate matter using a canny edge detector embedded PIV algorithm.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Overcoming Smart City Barriers Using Multi-Modal Interpretive Structural Modeling.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Analyzing the Performance of Nature-Inspired Optimization Algorithms with Modified Grey Wolf Optimization for VM Migration Problems.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Handwriting Analysis AI-Based System for Assisting People with Dysgraphia.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A metric focused performance assessment of fog computing environments: A critical review.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Spatial and temporal trends reveal: hotspot identification of crimes using machine learning approach.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Network efficient topology for low power and lossy networks in smart corridor design using RPL.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "GSTChain: A Blockchain Network Application for the Goods and Services Tax.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Constituent vs Dependency Parsing-Based RDF Model Generation from Dengue Patients&apos; Case Sheets.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Objective Assessment in Java Programming Language Using Rubrics.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Green software: Refactoring approach.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Hybrid edge-based fractal image encoding using K-NN search.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Enhancing RPL using E-MOF: a fuzzy-based mobility model for IoV.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "A novel random forest approach to predict phase transition.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "ProBlock: a novel approach for fake news detection.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Agile Testing Efficiency using an Integrated Approach of Fuzzy-based MOORA and AHP.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Multiclass classification of mobile applications as per energy consumption.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Accessible review of internet of vehicle models for intelligent transportation and research gaps for potential future directions.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Scalability in Blockchain.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Computational complexity of fractal image compression algorithm.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        },
+        {
+            "title": "Determining protein conformation using vibrational frequencies: an ensemble approach.",
+            "publication year": {},
+            "source": "DBLP",
+            "authors": "",
+            "url": "",
+            "summary": "",
+            "scraper_summary": ""
+        }
+    ]
+}

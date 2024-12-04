@@ -1,0 +1,56 @@
+{
+    "entries": {
+        "lamport1994latex": {
+            "bibtex-type": "article",
+            "title": "LaTeX: A Document Preparation System",
+            "author": [
+                "Lamport, Leslie"
+            ],
+            "journal": "Addison-Wesley",
+            "year": 1994,
+            "volume": "2",
+            "pages": "1\u2013272",
+            "publisher": "Addison-Wesley"
+        },
+        "knuth1984texbook": {
+            "bibtex-type": "book",
+            "title": "The TeXbook",
+            "author": [
+                "Knuth, Donald E"
+            ],
+            "volume": "1994",
+            "year": 1984,
+            "publisher": "Addison-Wesley"
+        },
+        "mikolov2013efficient": {
+            "bibtex-type": "inproceedings",
+            "title": "Efficient estimation of word representations in vector space",
+            "author": [
+                "Mikolov, Tomas",
+                "Chen, Kai",
+                "Corrado, Greg",
+                "Dean, Jeffrey"
+            ],
+            "booktitle": "Proceedings of the International Conference on Learning Representations (ICLR)",
+            "year": 2013
+        },
+        "smith2015phd": {
+            "bibtex-type": "phdthesis",
+            "title": "On the role of randomness in machine learning",
+            "author": [
+                "Smith, John"
+            ],
+            "year": 2015,
+            "school": "Stanford University"
+        },
+        "wikipedia2023": {
+            "bibtex-type": "misc",
+            "title": "Machine Learning",
+            "author": [
+                "Wikipedia contributors"
+            ],
+            "howpublished": "<a href='https://en.wikipedia.org/wiki/Machine_learning'>https://en.wikipedia.org/wiki/Machine_learning</a>",
+            "year": 2023
+        }
+    }
+}

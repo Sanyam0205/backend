@@ -1,0 +1,11 @@
+scholarly
+fastapi
+openai
+pymupdf
+firecrawl
+googlesearch-python
+mistralai
+frontend
+torch
+sentence-transformers
+pymongo

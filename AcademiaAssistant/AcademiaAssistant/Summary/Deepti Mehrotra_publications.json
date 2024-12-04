@@ -1,0 +1,1811 @@
+{
+    "author": "Deepti Mehrotra",
+    "publication_mappings": [
+        {
+            "id": 1,
+            "title": "Comparative Review of Selection Techniques in Genetic Algorithm",
+            "research_subject": "Artificial Intelligence",
+            "research_area": "Genetic Algorithms"
+        },
+        {
+            "id": 2,
+            "title": "A comparative review of approaches to prevent premature convergence in GA",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 3,
+            "title": "Performance comparison of time series data using predictive data mining techniques",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 4,
+            "title": "Evaluation of smartphones in Indian market using EDAS",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 5,
+            "title": "Rank university websites using fuzzy AHP and fuzzy TOPSIS approach on usability",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 6,
+            "title": "Issues in achieving complete interoperability while sharing electronic health records",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 7,
+            "title": "Usability evaluation of website using combined weighted method: fuzzy AHP and entropy approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 8,
+            "title": "An IOT by information retrieval approach: Smart lights controlled using WiFi",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 9,
+            "title": "FAHP Approach to  Rank  Educational  Websites on Usability",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 10,
+            "title": "Learner Groups in Massive Open Online Courses",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 11,
+            "title": "Identifying knowledge indicators in higher education organization",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 12,
+            "title": "ProBlock: a novel approach for fake news detection",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 13,
+            "title": "ANFIS method for usability assessment of website of an educational institute",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 14,
+            "title": "Data mining approach to analyse the road accidents in India",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 15,
+            "title": "Grammar induction using bit masking oriented genetic algorithm and comparative analysis",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 16,
+            "title": "Genetic algorithms: concepts, issues and a case study of grammar induction",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 17,
+            "title": "Evaluation of Genetic Algorithm\u2019s Selection Methods",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 18,
+            "title": "Comparative analysis of edge-based fractal image compression using nearest neighbor technique in various frequency domains",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 19,
+            "title": "Predicting the protein structure using random forest approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 20,
+            "title": "Mobile applications usability parameters: taking an insight view",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 21,
+            "title": "Delivery of learning knowledge objects using fuzzy clustering",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 22,
+            "title": "Accessible review of internet of vehicle models for intelligent transportation and research gaps for potential future directions",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 23,
+            "title": "Proposing hierarchy-similarity based access control framework: A multilevel Electronic Health Record data sharing approach for interoperable environment",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 24,
+            "title": "Performance analysis of student learning metric using K-mean clustering approach K-mean cluster",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 25,
+            "title": "Analytical evaluation of agile success factors influencing quality in software industry",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 26,
+            "title": "Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 27,
+            "title": "Quality, reliability, security and robustness in heterogeneous networks",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 28,
+            "title": "User centric retrieval of learning objects in LMS",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 29,
+            "title": "Challenges and recommendations to healthcare data exchange in an interoperable environment",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 30,
+            "title": "Multiclass classification of mobile applications as per energy consumption",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 31,
+            "title": "Results of mapping patients expectation using SERVQUAL",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 32,
+            "title": "A naive bayes approach for converging learning objects with open educational resources",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 33,
+            "title": "A metric focused performance assessment of fog computing environments: A critical review",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 34,
+            "title": "Green software: Refactoring approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 35,
+            "title": "SWRL reasoning on ontology-based clinical dengue knowledge base",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 36,
+            "title": "Recent Advances in Intelligent Informatics: Proceedings of the Second International Symposium on Intelligent Informatics (ISI'13), August 23-24 2013, Mysore, India",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 37,
+            "title": "Vibrational dynamics and heat capacity of poly (L-lysine)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 38,
+            "title": "Comparative analysis of multi-label classification algorithms",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 39,
+            "title": "Exploring interoperability approaches and challenges in healthcare data exchange",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 40,
+            "title": "The state of art in website usability evaluation methods",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 41,
+            "title": "Analysis and Implementation of the Bray\u2013Curtis Distance-Based Similarity Measure for Retrieving Information from the Medical Repository: Bray\u2013Curtis Distance Similarity-Based \u2026",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 42,
+            "title": "Adaptive searchless fractal image compression in DCT domain",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 43,
+            "title": "Predicting faults before testing phase using Halstead\u2019s metrics",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 44,
+            "title": "Knowledge Enriched Learning by Converging Knowledge Object & Learning Object",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 45,
+            "title": "Knowledge building through optimized classification rule set generation using genetic based elitist multi objective approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 46,
+            "title": "Analysis of Sentiments for Sports data using RapidMiner",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 47,
+            "title": "An ensemble approach in converging contents of LMS and KMS",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 48,
+            "title": "Comparing data mining techniques for mining patents",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 49,
+            "title": "Threats and challenges to security of electronic health records",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 50,
+            "title": "Quality metrics a quanta for retrieving learning object by clustering techniques",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 51,
+            "title": "Achieving excellence through knowledge mapping in higher education institution",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 52,
+            "title": "GSTChain: A blockchain network application for the goods and services tax",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 53,
+            "title": "IoT based smart parking system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 54,
+            "title": "Agglomerative hierarchical clustering technique for partitioning patent dataset",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 55,
+            "title": "A Data Mining Approach to Improve Re-Accessibility and Delivery of Learning Knowledge Objects",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 56,
+            "title": "Enhanced learning by extending metadata of learning objects with knowledge objects",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 57,
+            "title": "Computational complexity of fractal image compression algorithm",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 58,
+            "title": "Digital image encoding scheme using fractal approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 59,
+            "title": "Prediction of carbon stock available in forest using naive Bayes approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 60,
+            "title": "Trend and network analysis of common eligibility features for cancer trials in ClinicalTrials. gov",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 61,
+            "title": "Phonon dispersion and heat capacity in cross-\u03b2 form of poly (O-acetyl, l-serine)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 62,
+            "title": "A study on RPL protocol with respect to DODAG formation using objective function",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 63,
+            "title": "Landscape analysis of patent dataset",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 64,
+            "title": "An access control framework for secured sharing of electronic health records using hierarchy similarity analyser",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 65,
+            "title": "Comparative Study of EM and K-means Clustering Techniques in WEKA interface",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 66,
+            "title": "A statistical comparison of digital image watermarking techniques",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 67,
+            "title": "Phonon dispersion and heat capacity of poly (l-aspartic acid)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 68,
+            "title": "Detection of vulnerabilities in blockchain smart contracts: a review",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 69,
+            "title": "Overcoming smart city barriers using multi-modal interpretive structural modeling",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 70,
+            "title": "Bit mask-oriented genetic algorithm for grammatical inference and premature convergence",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 71,
+            "title": "Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 72,
+            "title": "Voice assisted smart home automation system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 73,
+            "title": "Trend analysis for retail chain using statistical analysis system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 74,
+            "title": "Modelling fault detection using SRGM in agile environment and ranking of models",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 75,
+            "title": "Role of decision tree in supplementing tacit knowledge for Hypothetico-Deduction in higher education",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 76,
+            "title": "Modelling fault detection with change-point in agile software development environment",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 77,
+            "title": "Analysis of code smell to quantify the refactoring",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 78,
+            "title": "Implementation of genetic algorithm for developing knowledge centric environment in higher education",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 79,
+            "title": "Hybrid edge-based fractal image encoding using K-NN search",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 80,
+            "title": "Objective Assessment in Java Programming Language Using Rubrics",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 81,
+            "title": "Spatial and temporal trends reveal: Hotspot identification of crimes using machine learning approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 82,
+            "title": "Two-stage cbr based healthcare model to diagnose liver disease",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 83,
+            "title": "Measuring code smells and anti-patterns",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 84,
+            "title": "RDF Model Generation for Unstructured Dengue Patients' Clinical and Pathological Data",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 85,
+            "title": "Comparative analysis of ranking functions for retrieving information from medical repository",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 86,
+            "title": "Metaheuristic policies for discovery task programming matters in cloud computing",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 87,
+            "title": "Building CBR based diagnosis system using jCOLIBRI",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 88,
+            "title": "A push strategy for delivering of Learning Objects using meta data based association analysis (FP-Tree)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 89,
+            "title": "Detecting and Dealing with Malicious Nodes Problem in MANET",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 90,
+            "title": "Normal modes and their dispersion in poly (\u03b1-isobutyl, \u03b2-l-aspartate): II. 13/4 Helix",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 91,
+            "title": "Network efficient topology for low power and lossy networks in smart corridor design using RPL",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 92,
+            "title": "Query optimization in crowd-sourcing using multi-objective ant lion optimizer",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 93,
+            "title": "To calculate the usability of healthcare mobile applications using cognitive walkthrough",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 94,
+            "title": "Analysis of Factors Affecting Infant Mortality Rate Using Decision Tree in R Language",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 95,
+            "title": "Clustering the Patent Data Using K-Means Approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 96,
+            "title": "Analyse power consumption by mobile applications using fuzzy clustering approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 97,
+            "title": "Prioritizing the refactoring need for critical component using combined approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 98,
+            "title": "Analytical modelling approach to measure the usability of website",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 99,
+            "title": "Applying CHAID algorithm to investigate critical attributes of secured interoperable health data exchange",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 100,
+            "title": "Similarity Based Convergence of Learning  Knowledge Objects and Delivery Using  Agglomerative Clustering",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 101,
+            "title": "Schemes and Practices of Learning Object Repository: A Literature Review",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 102,
+            "title": "Information retrieval system assigning context to documents by Relevance feedback",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 103,
+            "title": "Normal modes and their dispersion in poly (\u03b1-isobutyl-\u03b2-l-aspartate): I. 4/1 Helix",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 104,
+            "title": "A novel random forest approach to predict phase transition",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 105,
+            "title": "Agile testing efficiency using an integrated approach of fuzzy-based MOORA and AHP",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 106,
+            "title": "A literature review of critical success factors in agile testing method of software development",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 107,
+            "title": "An r2rml-based approach to map dengue patient database to ontology",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 108,
+            "title": "Label powerset based multi-label classification for mobile applications",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 109,
+            "title": "Diagnosis of diabetic nature of a person using SVM and ANN approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 110,
+            "title": "Application of decision tree for understanding Indian educational scenario",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 111,
+            "title": "Designing metrics for caching techniques for dynamic web site",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 112,
+            "title": "Phonons and their dispersion in poly(S\u2010benzyl\u2010L\u2010cysteine)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 113,
+            "title": "Multistep transitions in collagens",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 114,
+            "title": "Handwriting analysis ai-based system for assisting people with dysgraphia",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 115,
+            "title": "Interoperability of electronic health records for dyslipidemia using knowledge graphs",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 116,
+            "title": "Scalability in Blockchain-Hyperledger Fabric and Hierarchical Model",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 117,
+            "title": "Optimizing ambulance deployment using genetic algorithm",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 118,
+            "title": "Code Smell Refactoring for Energy Optimization of Android Apps",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 119,
+            "title": "Analysis on protocol-based intrusion detection system using artificial intelligence",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 120,
+            "title": "Determining protein conformation using vibrational frequencies: an ensemble approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 121,
+            "title": "Self-power generating indoor air purifier robot",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 122,
+            "title": "Ranking the access control models for secured sharing of EHR using fuzzy TOPSIS technique",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 123,
+            "title": "A novel multi-parameter tuned optimizer for information retrieval based on particle swarm optimization",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 124,
+            "title": "An Emperical Study: Relevance Feedback in Information Retrieval Systems",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 125,
+            "title": "Task based effectiveness evaluation of educational institute websites",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 126,
+            "title": "Measuring informativeness of a web document",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 127,
+            "title": "Genetic-Based Weighted Aggregation Model for Optimization of Student\u2019s Performance in Higher Education",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 128,
+            "title": "Effective curriculum development through rule induction in knowledge centric higher education organization",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 129,
+            "title": "Phonon dispersion in 1, 4-cis-poly-(2-methyl-1, 3-pentadiene)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 130,
+            "title": "Dispersion of normal modes in 1, 4-trans-poly (1, 3-pentadiene)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 131,
+            "title": "Breaking barriers: paving the path to sustainable fashion\u2013insights for a greener apparel and textile sector",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 132,
+            "title": "A multi-objective fitness dependent optimizer for workflow scheduling",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 133,
+            "title": "A new approach to simulate the dynamic behavior of particulate matter using a canny edge detector embedded PIV algorithm",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 134,
+            "title": "Benchmarking the Bagging and Boosting (B & B) Algorithms for Modeling Optimized Autonomous Intrusion Detection Systems (AIDS)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 135,
+            "title": "Knowledge Representation and Information Retrieval from Ontologies",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 136,
+            "title": "A RDF model-based predictive model on dengue patients' diagnostic PDF reports",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 137,
+            "title": "Transformation of Logistics Value Chain for Enhancing Cross-Border Trade Using Blockchain and IoT",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 138,
+            "title": "Constituent vs Dependency Parsing-Based RDF Model Generation from Dengue Patients\u2019 Case Sheets",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 139,
+            "title": "A convergence time predictive model using machine learning for LLN",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 140,
+            "title": "Assessing the Supervised Machine Learning Algorithms for Human Activity Recognition Using Smartphone",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 141,
+            "title": "Identifying the best network security using EDAS",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 142,
+            "title": "Implementation of quasi-euclidean distance-based similarity model for retrieving information from OHSUMED dataset",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 143,
+            "title": "Enhancing ontology by integrating facts from unstructured data and mapping with linguistic knowledge",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 144,
+            "title": "Complexity metrics for component-based software system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 145,
+            "title": "Navigational complexity metrics of a website",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 146,
+            "title": "Pubworld-A R2RML mapping driven approach to transform relational database data into shareable format",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 147,
+            "title": "Relevance Feedback on Mobile Data Using RapidMiner",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 148,
+            "title": "Analytical Review on Image Compression Using Fractal Image Coding",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 149,
+            "title": "The relationship between user preferences in interactive information retrieval evaluation",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 150,
+            "title": "Data Convergence Techniques from different from Different Health Records into Single Platform -A survey",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 151,
+            "title": "Analysis of Software Fault Prediction Metrics",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 152,
+            "title": "Emerging new trends in transmission of real time application (VoIP) to NGN by RTP",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 153,
+            "title": "Reinforcement Learning Model for Detecting Phishing Websites",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 154,
+            "title": "Smart Contract Vulnerabilities: Exploring the Technical and Economic Aspects",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 155,
+            "title": "Scalability Performance Analysis of Blockchain Using Hierarchical Model in Healthcare",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 156,
+            "title": "Analyzing the Performance of Nature-Inspired Optimization Algorithms with Modified Grey Wolf Optimization for VM Migration Problems",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 157,
+            "title": "Predicting the future trends for circular economy",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 158,
+            "title": "Enhancing the website usage using process mining",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 159,
+            "title": "Imputation Techniques Analysis for Incomplete Medical Datasets in Case-Based Reasoning System",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 160,
+            "title": "Enhancing RPL using E-MOF: a fuzzy-based mobility model for IoV",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 161,
+            "title": "The Analysis of Time Series Data",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 162,
+            "title": "Applications of Big Five Personality Test in Job Performance",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 163,
+            "title": "Addressing Scalability Issues in Blockchain: A Use case from Healthcare",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 164,
+            "title": "A Review for Cyber Security Challenges on Big Data Using Machine Learning Techniques",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 165,
+            "title": "Estimation of Particulate Matter PM2.5 Concentration using Random Forest Regressor with Hyperparameter Tuning",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 166,
+            "title": "The facets of machine learning in lane change prediction of vehicular traffic flow",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 167,
+            "title": "Is refactoring a solution to resolve code smell?",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 168,
+            "title": "Extensive Feature Analysis and Baseline Model for Stance Detection Task",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 169,
+            "title": "Socialization between quarantine vehicle and road side unit for handling covid-19: A concept",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 170,
+            "title": "Implementing Deep Learning Algorithm on Physicochemical Properties of Proteins",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 171,
+            "title": "Scalability in Blockchain",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 172,
+            "title": "Establishing Inter-vehicle communication using simulation tools",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 173,
+            "title": "Model Analysis of Collaborative-Based Recommender System",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 174,
+            "title": "Measuring and evaluating best practices in Agile testing environment using AHP",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 175,
+            "title": "Dynamic Access Control Solution for Cross-Tenancy in a Cloud Environment",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 176,
+            "title": "Image correlation method to simulate physical characteristic of particulate matter",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 177,
+            "title": "Particulate Matter Estimation Based on Haze Degree Factor",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 178,
+            "title": "Decision making on critical component using combined approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 179,
+            "title": "New Metrics for Predicting the Reliability of Individual Component Based on Software Design Metrics",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 180,
+            "title": "Hierarchy similarity analyser-an approach to securely share electronic health records",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 181,
+            "title": "Information retrieval on green mining dataset using divergence from randomness models",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 182,
+            "title": "Field based weighting information retrieval on document field of Ad hoc dataset",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 183,
+            "title": "Conceptualizing smart city in indian prospective",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 184,
+            "title": "Electricity generating and monitoring system using IoT",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 185,
+            "title": "Relevance Index for Inferred Knowledge in Higher Education Domain Using Data Mining",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 186,
+            "title": "Designing ANFIS model to predict the reliability of component-based system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 187,
+            "title": "A Decision Tree Approach to Identify the Factors Affecting Reliability for Component-Based System",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 188,
+            "title": "Comparison and analysis of information retrieval DFR models",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 189,
+            "title": "An Adaptive Neuro-Fuzzy Model to Predict the Reliability before Testing Phase",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 190,
+            "title": "Identification of Criteria Affecting the Usability of Academic Institutes Websites",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 191,
+            "title": "Swarm and Evolutionary Computation",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 192,
+            "title": "Predicting Reliability from Frequent Errors Using A-priori Algorithm",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 193,
+            "title": "Coupling and reusability the design issues of software metric for component based system",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 194,
+            "title": "Dynamic Multi-Workflow Scheduling: A Comparative Analysis of Real-time Data",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 195,
+            "title": "Detection of vulnerabilities in blockchain smart contracts using deep learning",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 196,
+            "title": "Multivariate Time Series Forecasting of Municipal Solid Waste",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 197,
+            "title": "A Framework for Blockchain-Enabled Smart Contract Management System of Arms and Ammunition for Defence Industry",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 198,
+            "title": "Dynamic Multi-Workflow Scheduling Analysis of Realtime Healthcare Ecosystem: An Emerging Research Area.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 199,
+            "title": "Edge-Ward Computational Offloading for Smart Waste Management System",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 200,
+            "title": "Analysis of India\u2019s Regionally Disparate Recovery from the Second Wave of Coronavirus Using Machine Learning",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 201,
+            "title": "Audio Metadata Tagging",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 202,
+            "title": "Rule-Based Learner Competencies Predictor System",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 203,
+            "title": "Handwriting Analysis for Dysgraphia Using Machine Learning",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 204,
+            "title": "The Integration of Hadoop and a Smart Utility Scoring with a Case-Based Reasoning System for Managing Large and Complex Medical Case Base",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 205,
+            "title": "A Study of Different Approaches of Offloading for Mobile Cloud Computing",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 206,
+            "title": "Combating Challenges in Health Care Using Blockchain",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 207,
+            "title": "Predicting the Secondary Structure of Proteins: A Deep Learning Approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 208,
+            "title": "Improvised Protocol for Enhancement of Security in Internet of Vehicles",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 209,
+            "title": "Correction: Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 210,
+            "title": "Intelligent Accident Rescue System",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 211,
+            "title": "A Convergence Time Predictive Model using Machine Learning for LLN",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 212,
+            "title": "Multi Kernel Support Vector Machine for Particulate Matter Estimation",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 213,
+            "title": "Modelling and measuring attributes influencing agile implementation in an enterprise using structural equation modelling",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 214,
+            "title": "Usefulness of Rubric in Assessing Writing Skills Using Clustering",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 215,
+            "title": "A Swift Approach for Malware Detection",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 216,
+            "title": "Internet Privacy Concerns and Social Awareness",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 217,
+            "title": "Health Measure Kit and Finding A Potential Covid-19 Suspect Using IoT",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 218,
+            "title": "Stylometric Analysis of Writing Patterns Using Artificial Neural Networks",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 219,
+            "title": "Optimal Feature Selection to Improve Vehicular Network Lifetime",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 220,
+            "title": "Identifying Quarantine Centers and Resource Allocation Using Optimization Techniques",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 221,
+            "title": "Correction to: Segregation of Speech and Music Signals for Aiding the Hearing Impaired",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 222,
+            "title": "Analysis of Crop Protection Techniques Involving IoT",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 223,
+            "title": "Segregation of Speech and Music Signals for Aiding the Hearing Impaired",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 224,
+            "title": "An IoT enabled medical box",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 225,
+            "title": "Simulation and Performance Analysis of Tilted Time Window and Support Vector Machine Based Learning Object Ranking Method",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 226,
+            "title": "Early Reliability Prediction Model Integrating Halstead\u2019s Metrics and Fuzzy Usage",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 227,
+            "title": "2021 4th International Conference on Recent Developments in Control, Automation &Power Engineering (RDCAPE) 7-8 October 2019 Department of Electrical & Electronics Engineering",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 228,
+            "title": "Break Point Analysis of Particulate Matter",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 229,
+            "title": "Efficient bandwidth utilization using reserved bits of transmission control protocol header",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 230,
+            "title": "Analysis and visualization model for a GPS dataset of moving vehicle",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 231,
+            "title": "Automation of Business Cards",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 232,
+            "title": "Comparative Analysis of Wavelet Encoder and Hybrid Wavelet-Based Fractal Encoder for Image",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 233,
+            "title": "Evaluating the Refactoring Index Using Entropy Approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 234,
+            "title": "A Cognitive Information Retrieval Using POP Inference Engine Approaches",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 235,
+            "title": "White Noise Removal to Enhance Clarity of Sports Commentary",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 236,
+            "title": "Phenomenology Ethnomethodology analysis of\" website usability\"",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 237,
+            "title": "Spatial Mining of Web-Log to observe reachability of Website",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 238,
+            "title": "Web-Log Trend Pattern Analysis with Temporal Approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 239,
+            "title": "Mapping of the vector space model with cognitive skills of the user using fuzzy approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 240,
+            "title": "Feature selection approach for reducing the power consumption for a greener environment",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 241,
+            "title": "Inter-Operability In Incompatible Access Control Models",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 242,
+            "title": "E-Commerce Website Design improvement based on Web usage Mining",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 243,
+            "title": "Comparison of Different Attributes of Authorship Data using Data Mining Approach",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 244,
+            "title": "The BMODS: A powerful 2-D representation scheme for the GA's population",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 245,
+            "title": "[Final accepted version] Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 246,
+            "title": "A fuzzy association rule mining approach using movie lens dataset",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 247,
+            "title": "New Weighted Clustering Approach to Map and Prioritise Learning Knowledge Objects towards Learning Approaches",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 248,
+            "title": "Accessibility Issues in Interoperable Sharing of Electronic Health Records: Physician\u2019s Perspective",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 249,
+            "title": "Year of Publication: 2015",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 250,
+            "title": "International Journal of Emerging Technologies in Computational and Applied Sciences (IJETCAS) www. iasir. net",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 251,
+            "title": "Topic Sensitive & Preference Learning Based Solution For Information Retrieval From Learning Object Repository",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 252,
+            "title": "Computer Architecture",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 253,
+            "title": "Emerging New Trends in Transmission of Real Time Application(VOIP) to NGN By RTP",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 254,
+            "title": "ANALYSING AND SIMULATING USER FEEDBACK IN  NEURAL NETWORK",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 255,
+            "title": "Improving Network Reliability and QOS in EOIP Through Application Layer Signaling Protocol",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 256,
+            "title": "\u201cRelevance feedback based semantic Learning object repository\u201d",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 257,
+            "title": "Vertical alveolar distraction in reconstructed or resorbed mandible: a clinical trial",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 258,
+            "title": "A Spectroscopic Study of Various Conformational States of Poly(\uf062-benzyl,L-aspartate)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 259,
+            "title": "A spectroscopic study of various conformational states of poly (\u03b2-benzyI, L-aspartate)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 260,
+            "title": "Chaitanya Singla 407",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 261,
+            "title": "Committee 2 Messages 5",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 262,
+            "title": "Maintaining Regularity and Generalization in Data using MDL and GA: Case of Grammatical Inference",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 263,
+            "title": "Middlesex University Research Repository",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 264,
+            "title": "Application of Decision Tree for understanding Indian Educational Scenario",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 265,
+            "title": "ICRITO\u20192017 Conference Committees",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 266,
+            "title": "Challenges and Recommendations to Healthcare Data Exchange in an Interoperable Environment",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 267,
+            "title": "ACCT 2015",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 268,
+            "title": "ICRITO 2014 Committee",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 269,
+            "title": "Triangulation of Mobile & Role of NMR (New Trends in Telecom Networks)",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 270,
+            "title": "Last Date of Paper Submission is 30 November, 2018 Authors can directly submit your research paper to editor@ ijritcc. org Authors can request for fast publicaton, So that \u2026",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 271,
+            "title": "Relevance Feedback Based Semantic Learning Object Repository",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 272,
+            "title": "A multi-objective fitness dependent optimizer for workflow scheduling.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 273,
+            "title": "Predicting the future trends for circular economy.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 274,
+            "title": "Analysis of India&apos;s Regionally Disparate Recovery from the Second Wave of Coronavirus Using Machine Learning.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 275,
+            "title": "Dynamic Multi-Workflow Scheduling: A Comparative Analysis of Real-time Data.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 276,
+            "title": "Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 277,
+            "title": "Correction: Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 278,
+            "title": "A RDF model-based predictive model on dengue patients&apos; diagnostic PDF reports.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 279,
+            "title": "The Integration of Hadoop and a Smart Utility Scoring with a Case-Based Reasoning System for Managing Large and Complex Medical Case Base.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 280,
+            "title": "Benchmarking the Bagging and Boosting (B &amp; B) Algorithms for Modeling Optimized Autonomous Intrusion Detection Systems (AIDS).",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 281,
+            "title": "A new approach to simulate the dynamic behavior of particulate matter using a canny edge detector embedded PIV algorithm.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 282,
+            "title": "Overcoming Smart City Barriers Using Multi-Modal Interpretive Structural Modeling.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 283,
+            "title": "Analyzing the Performance of Nature-Inspired Optimization Algorithms with Modified Grey Wolf Optimization for VM Migration Problems.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 284,
+            "title": "Handwriting Analysis AI-Based System for Assisting People with Dysgraphia.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 285,
+            "title": "A metric focused performance assessment of fog computing environments: A critical review.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 286,
+            "title": "Spatial and temporal trends reveal: hotspot identification of crimes using machine learning approach.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 287,
+            "title": "Network efficient topology for low power and lossy networks in smart corridor design using RPL.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 288,
+            "title": "GSTChain: A Blockchain Network Application for the Goods and Services Tax.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 289,
+            "title": "Constituent vs Dependency Parsing-Based RDF Model Generation from Dengue Patients&apos; Case Sheets.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 290,
+            "title": "Objective Assessment in Java Programming Language Using Rubrics.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 291,
+            "title": "Green software: Refactoring approach.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 292,
+            "title": "Hybrid edge-based fractal image encoding using K-NN search.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 293,
+            "title": "Enhancing RPL using E-MOF: a fuzzy-based mobility model for IoV.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 294,
+            "title": "A novel random forest approach to predict phase transition.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 295,
+            "title": "ProBlock: a novel approach for fake news detection.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 296,
+            "title": "Agile Testing Efficiency using an Integrated Approach of Fuzzy-based MOORA and AHP.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 297,
+            "title": "Multiclass classification of mobile applications as per energy consumption.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 298,
+            "title": "Accessible review of internet of vehicle models for intelligent transportation and research gaps for potential future directions.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 299,
+            "title": "Scalability in Blockchain.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 300,
+            "title": "Computational complexity of fractal image compression algorithm.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        },
+        {
+            "id": 301,
+            "title": "Determining protein conformation using vibrational frequencies: an ensemble approach.",
+            "research_subject": "N/A",
+            "research_area": "N/A"
+        }
+    ]
+}

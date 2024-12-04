@@ -1,0 +1,4116 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "r_Sa3pAAAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=r_Sa3pAAAAAJ",
+    "name": "Deepti Mehrotra",
+    "affiliation": "Dean, JIIT Noida",
+    "email_domain": "@jiit.ac.in",
+    "interests": [
+        "Data analytics",
+        "web analytics",
+        "soft computing",
+        "information retrieval"
+    ],
+    "citedby": 2453,
+    "organization": 8200968108020919212,
+    "citedby5y": 1762,
+    "hindex": 24,
+    "hindex5y": 20,
+    "i10index": 61,
+    "i10index5y": 44,
+    "cites_per_year": {
+        "2013": 23,
+        "2014": 35,
+        "2015": 52,
+        "2016": 142,
+        "2017": 155,
+        "2018": 209,
+        "2019": 208,
+        "2020": 221,
+        "2021": 335,
+        "2022": 311,
+        "2023": 379,
+        "2024": 300
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gntQ1UcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rajni Sehgal",
+            "affiliation": "Associate Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Xr9hx3sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Anuj Kumar",
+            "affiliation": "Chaudhary Charan Singh University, Meerut"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative Review of Selection Techniques in Genetic Algorithm",
+                "pub_year": "2015",
+                "citation": "2015 1st International Conference on Futuristic trend in Computational …, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:M05iB0D1s5AC",
+            "num_citations": 323,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12359224761016430972",
+            "cites_id": [
+                "12359224761016430972"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative review of approaches to prevent premature convergence in GA",
+                "pub_year": "2014",
+                "citation": "Applied Soft Computing 24, 1047-1077, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 275,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7615004123075307668",
+            "cites_id": [
+                "7615004123075307668"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance comparison of time series data using predictive data mining techniques",
+                "pub_year": "2012",
+                "citation": "Advances in Information Mining 4 (1), 57-66, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17518720942617447354",
+            "cites_id": [
+                "17518720942617447354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of smartphones in Indian market using EDAS",
+                "pub_year": "2018",
+                "citation": "Procedia computer science 132, 236-243, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:eq2jaN3J8jMC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2108504273211226586",
+            "cites_id": [
+                "2108504273211226586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rank university websites using fuzzy AHP and fuzzy TOPSIS approach on usability",
+                "pub_year": "2015",
+                "citation": "International journal of information engineering and electronic business 7 …, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:r0BpntZqJG4C",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5020469892411710235",
+            "cites_id": [
+                "5020469892411710235"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Issues in achieving complete interoperability while sharing electronic health records",
+                "pub_year": "2016",
+                "citation": "Procedia Computer Science 78, 192-198, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:D03iK_w7-QYC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5220672881913983639",
+            "cites_id": [
+                "5220672881913983639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usability evaluation of website using combined weighted method: fuzzy AHP and entropy approach",
+                "pub_year": "2016",
+                "citation": "International Journal of System Assurance Engineering and Management, 1-10, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12147066561824084033",
+            "cites_id": [
+                "12147066561824084033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An IOT by information retrieval approach: Smart lights controlled using WiFi",
+                "pub_year": "2016",
+                "citation": "2016 6th International Conference-Cloud System and Big Data Engineering …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:KxtntwgDAa4C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3693532956479088908",
+            "cites_id": [
+                "3693532956479088908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FAHP Approach to  Rank  Educational  Websites on Usability",
+                "pub_year": "2015",
+                "citation": "International Journal of Computing and Digital Systems 4 (4), 251-260, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112571480355174597",
+            "cites_id": [
+                "5112571480355174597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learner Groups in Massive Open Online Courses",
+                "pub_year": "2017",
+                "citation": "American Journal of Distance Education 31 (2), 80-97, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=750110966299016875",
+            "cites_id": [
+                "750110966299016875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying knowledge indicators in higher education organization",
+                "pub_year": "2015",
+                "citation": "Procedia Computer Science 46, 449-456, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6731571114714588731",
+            "cites_id": [
+                "6731571114714588731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ProBlock: a novel approach for fake news detection",
+                "pub_year": "2021",
+                "citation": "Cluster Computing 24, 3779-3795, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ClCfbGk0d_YC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8020635631297816937",
+            "cites_id": [
+                "8020635631297816937"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANFIS method for usability assessment of website of an educational institute",
+                "pub_year": "2013",
+                "citation": "World Applied Sciences Journal 23 (11), 1489-1498, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13027985944693213538",
+            "cites_id": [
+                "13027985944693213538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data mining approach to analyse the road accidents in India",
+                "pub_year": "2016",
+                "citation": "2016 5th International Conference on Reliability, Infocom Technologies and …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tOudhMTPpwUC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4948653012013869976",
+            "cites_id": [
+                "4948653012013869976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grammar induction using bit masking oriented genetic algorithm and comparative analysis",
+                "pub_year": "2016",
+                "citation": "Applied Soft Computing 38, 453-468, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3240308174540245252",
+            "cites_id": [
+                "3240308174540245252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic algorithms: concepts, issues and a case study of grammar induction",
+                "pub_year": "2012",
+                "citation": "Proceedings of the CUBE International Information Technology Conference, 263-271, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7589107270319801312",
+            "cites_id": [
+                "7589107270319801312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Genetic Algorithm’s Selection Methods",
+                "pub_year": "2003",
+                "citation": "Information Systems Design and Intelligent Applications 434, 731-738, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15454082038975049536",
+            "cites_id": [
+                "15454082038975049536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of edge-based fractal image compression using nearest neighbor technique in various frequency domains",
+                "pub_year": "2018",
+                "citation": "Alexandria engineering journal 57 (3), 1525-1533, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9394625754388454480",
+            "cites_id": [
+                "9394625754388454480"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the protein structure using random forest approach",
+                "pub_year": "2018",
+                "citation": "Procedia computer science 132, 1654-1662, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:5awf1xo2G04C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2888556122653072028",
+            "cites_id": [
+                "2888556122653072028"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mobile applications usability parameters: taking an insight view",
+                "pub_year": "2018",
+                "citation": "Information and Communication Technology for Sustainable Development …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:olpn-zPbct0C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8320150608553975678",
+            "cites_id": [
+                "8320150608553975678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delivery of learning knowledge objects using fuzzy clustering",
+                "pub_year": "2016",
+                "citation": "Education and information technologies 21, 1329-1349, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9899608952989043678",
+            "cites_id": [
+                "9899608952989043678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accessible review of internet of vehicle models for intelligent transportation and research gaps for potential future directions",
+                "pub_year": "2021",
+                "citation": "Peer-to-Peer Networking and Applications 14 (2), 978-1005, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:VaXvl8Fpj5cC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18056783581414368480",
+            "cites_id": [
+                "18056783581414368480"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposing hierarchy-similarity based access control framework: A multilevel Electronic Health Record data sharing approach for interoperable environment",
+                "pub_year": "2017",
+                "citation": "Journal of King Saud University-Computer and Information Sciences 29 (4 …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540832760414986232",
+            "cites_id": [
+                "4540832760414986232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of student learning metric using K-mean clustering approach K-mean cluster",
+                "pub_year": "2016",
+                "citation": "2016 6th International Conference-Cloud System and Big Data Engineering …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16680934415398485779",
+            "cites_id": [
+                "16680934415398485779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical evaluation of agile success factors influencing quality in software industry",
+                "pub_year": "2020",
+                "citation": "International Journal of System Assurance Engineering and Management 11, 247-257, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:L7CI7m0gUJcC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7159755641289695623",
+            "cites_id": [
+                "7159755641289695623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+                "pub_year": "2016",
+                "citation": "Swarm and Evolutionary Computation 31, 11-23, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:NhqRSupF_l8C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15198420670760036393",
+            "cites_id": [
+                "15198420670760036393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quality, reliability, security and robustness in heterogeneous networks",
+                "pub_year": "2013",
+                "citation": "9th International Conference, Qshine, 303, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12634359906133997376",
+            "cites_id": [
+                "12634359906133997376"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "User centric retrieval of learning objects in LMS",
+                "pub_year": "2012",
+                "citation": "2012 Third International Conference on Computer and Communication Technology …, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12198175705621830933",
+            "cites_id": [
+                "12198175705621830933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Challenges and recommendations to healthcare data exchange in an interoperable environment",
+                "pub_year": "2014",
+                "citation": "Electronic Journal of Health Informatics 8 (2), 16, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15561061589049732076",
+            "cites_id": [
+                "15561061589049732076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiclass classification of mobile applications as per energy consumption",
+                "pub_year": "2021",
+                "citation": "Journal of King Saud University-Computer and Information Sciences 33 (6 …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5861020613676746199",
+            "cites_id": [
+                "5861020613676746199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Results of mapping patients expectation using SERVQUAL",
+                "pub_year": "2020",
+                "citation": "Journal of Healthcare Quality Research 35 (6), 381-390, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tuHXwOkdijsC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7792539174714548857",
+            "cites_id": [
+                "7792539174714548857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A naive bayes approach for converging learning objects with open educational resources",
+                "pub_year": "2016",
+                "citation": "Education and Information Technologies 21 (6), 1753-1767, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14050143144890164547",
+            "cites_id": [
+                "14050143144890164547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A metric focused performance assessment of fog computing environments: A critical review",
+                "pub_year": "2022",
+                "citation": "Computers and Electrical Engineering 103, 108350, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:mlAyqtXpCwEC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12977223185727945925",
+            "cites_id": [
+                "12977223185727945925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Green software: Refactoring approach",
+                "pub_year": "2022",
+                "citation": "Journal of King Saud University-Computer and Information Sciences 34 (7 …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:MLfJN-KU85MC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14158895474368627331",
+            "cites_id": [
+                "14158895474368627331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SWRL reasoning on ontology-based clinical dengue knowledge base",
+                "pub_year": "2020",
+                "citation": "International Journal of Metadata, Semantics and Ontologies 14 (1), 39-53, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tYavs44e6CUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8508547041612630489",
+            "cites_id": [
+                "8508547041612630489"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent Advances in Intelligent Informatics: Proceedings of the Second International Symposium on Intelligent Informatics (ISI'13), August 23-24 2013, Mysore, India",
+                "pub_year": "2013",
+                "citation": "Springer Science & Business Media, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16826707176425615259",
+            "cites_id": [
+                "16826707176425615259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vibrational dynamics and heat capacity of poly (L-lysine)",
+                "pub_year": "1997",
+                "citation": "Polymer journal 29 (11), 914-922, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6228683530377849806",
+            "cites_id": [
+                "6228683530377849806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of multi-label classification algorithms",
+                "pub_year": "2018",
+                "citation": "2018 First International Conference on Secure Cyber Computing and …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:fEOibwPWpKIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2383812594248434311",
+            "cites_id": [
+                "2383812594248434311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring interoperability approaches and challenges in healthcare data exchange",
+                "pub_year": "2013",
+                "citation": "Smart Health: International Conference, ICSH 2013, Beijing, China, August 3 …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15584332710373971153",
+            "cites_id": [
+                "15584332710373971153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The state of art in website usability evaluation methods",
+                "pub_year": "2017",
+                "citation": "Design Solutions for User-Centric Information Systems, 275-296, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069978833713503808",
+            "cites_id": [
+                "6069978833713503808"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and Implementation of the Bray–Curtis Distance-Based Similarity Measure for Retrieving Information from the Medical Repository: Bray–Curtis Distance Similarity-Based …",
+                "pub_year": "2019",
+                "citation": "International Conference on Innovative Computing and Communications …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:W5xh706n7nkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8502006139625006427",
+            "cites_id": [
+                "8502006139625006427"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive searchless fractal image compression in DCT domain",
+                "pub_year": "2016",
+                "citation": "The Imaging Science Journal 64 (7), 374-380, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2882455310279484185",
+            "cites_id": [
+                "2882455310279484185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting faults before testing phase using Halstead’s metrics",
+                "pub_year": "2015",
+                "citation": "Int J Softw Eng Appl 9 (7), 135-142, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ldfaerwXgEUC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15418629458895079823",
+            "cites_id": [
+                "15418629458895079823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Knowledge Enriched Learning by Converging Knowledge Object & Learning Object",
+                "pub_year": "2015",
+                "citation": "The Electronic Journal of e-Learning (EJEL) 13 (1), 3-13, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:TFP_iSt0sucC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3450458315054222061",
+            "cites_id": [
+                "3450458315054222061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Knowledge building through optimized classification rule set generation using genetic based elitist multi objective approach",
+                "pub_year": "2017",
+                "citation": "Neural Computing And Applications 28 (6), 1189-1385, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:eflP2zaiRacC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9183384163762750067",
+            "cites_id": [
+                "9183384163762750067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Sentiments for Sports data using RapidMiner",
+                "pub_year": "2018",
+                "citation": "2018 Second International Conference on Green Computing and Internet of …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:z_wVstp3MssC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3724760539987682219",
+            "cites_id": [
+                "3724760539987682219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An ensemble approach in converging contents of LMS and KMS",
+                "pub_year": "2017",
+                "citation": "Education and information technologies 22, 1673-1694, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18060889493439587263",
+            "cites_id": [
+                "18060889493439587263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing data mining techniques for mining patents",
+                "pub_year": "2015",
+                "citation": "2015 Fifth International Conference on Advanced Computing & Communication …, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:GnPB-g6toBAC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144244280555488564",
+            "cites_id": [
+                "7144244280555488564"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Threats and challenges to security of electronic health records",
+                "pub_year": "2013",
+                "citation": "Quality, Reliability, Security and Robustness in Heterogeneous Networks: 9th …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15848093739728118799",
+            "cites_id": [
+                "15848093739728118799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quality metrics a quanta for retrieving learning object by clustering techniques",
+                "pub_year": "2012",
+                "citation": "2012 Second International Conference on Digital Information and …, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16900408231800429135",
+            "cites_id": [
+                "16900408231800429135"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Achieving excellence through knowledge mapping in higher education institution",
+                "pub_year": "2012",
+                "citation": "International Journal of Computer Application, 5-10, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13118791401347433561",
+            "cites_id": [
+                "13118791401347433561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GSTChain: A blockchain network application for the goods and services tax",
+                "pub_year": "2022",
+                "citation": "Journal of Circuits, Systems and Computers 31 (01), 2250002, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:edDO8Oi4QzsC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15854158599945691148",
+            "cites_id": [
+                "15854158599945691148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT based smart parking system",
+                "pub_year": "2018",
+                "citation": "2018 International Conference on Innovation and Intelligence for Informatics …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:epqYDVWIO7EC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=688350815771115784",
+            "cites_id": [
+                "688350815771115784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agglomerative hierarchical clustering technique for partitioning patent dataset",
+                "pub_year": "2015",
+                "citation": "2015 4th International Conference on Reliability, Infocom Technologies and …, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12265642963526739022",
+            "cites_id": [
+                "12265642963526739022"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Data Mining Approach to Improve Re-Accessibility and Delivery of Learning Knowledge Objects",
+                "pub_year": "2014",
+                "citation": "Interdisciplinary Journal of E-Learning and Learning Objects (IJELLO) 11 …, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6034050504527608145",
+            "cites_id": [
+                "6034050504527608145"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced learning by extending metadata of learning objects with knowledge objects",
+                "pub_year": "2014",
+                "citation": "International Journal of Education and Learning 3 (1), 1-12, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6891155266695446061",
+            "cites_id": [
+                "6891155266695446061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational complexity of fractal image compression algorithm",
+                "pub_year": "2020",
+                "citation": "IET Image Processing 14 (17), 4425-4434, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:e_rmSamDkqQC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10973296922633521218",
+            "cites_id": [
+                "10973296922633521218"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital image encoding scheme using fractal approach",
+                "pub_year": "2018",
+                "citation": "2018 International Workshop on Advanced Image Technology (IWAIT), 1-8, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_B80troHkn4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9402341175395141778",
+            "cites_id": [
+                "9402341175395141778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediction of carbon stock available in forest using naive Bayes approach",
+                "pub_year": "2016",
+                "citation": "2016 Second International Conference on Computational Intelligence …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:p2g8aNsByqUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9281568259767205025",
+            "cites_id": [
+                "9281568259767205025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trend and network analysis of common eligibility features for cancer trials in ClinicalTrials. gov",
+                "pub_year": "2014",
+                "citation": "Smart Health: International Conference, ICSH 2014, Beijing, China, July 10 …, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:35N4QoGY0k4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5786269919285917656,10409488936017570941",
+            "cites_id": [
+                "5786269919285917656",
+                "10409488936017570941"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phonon dispersion and heat capacity in cross-β form of poly (O-acetyl, l-serine)",
+                "pub_year": "2000",
+                "citation": "Polymer 41 (6), 2095-2104, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2438531917664069171",
+            "cites_id": [
+                "2438531917664069171"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study on RPL protocol with respect to DODAG formation using objective function",
+                "pub_year": "2022",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2020, Volume …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:FPJr55Dyh1AC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16984947924877048947",
+            "cites_id": [
+                "16984947924877048947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Landscape analysis of patent dataset",
+                "pub_year": "2016",
+                "citation": "Journal of Intellectual Property Rights 21 (4), 211-225, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:XiSMed-E-HIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7839805452954794099",
+            "cites_id": [
+                "7839805452954794099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An access control framework for secured sharing of electronic health records using hierarchy similarity analyser",
+                "pub_year": "2015",
+                "citation": "International Journal of Electronic Healthcare 8 (2-4), 121-141, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12271278977757387150",
+            "cites_id": [
+                "12271278977757387150"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative Study of EM and K-means Clustering Techniques in WEKA interface",
+                "pub_year": "2013",
+                "citation": "International Journal of Advanced Technology & Engineering Research 3 (4), 40-45, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12649308949614727355",
+            "cites_id": [
+                "12649308949614727355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A statistical comparison of digital image watermarking techniques",
+                "pub_year": "2012",
+                "citation": "International Journal of Computer Applications 3, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4TOpqqG69KYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7657325819059010785",
+            "cites_id": [
+                "7657325819059010785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phonon dispersion and heat capacity of poly (l-aspartic acid)",
+                "pub_year": "1998",
+                "citation": "European polymer journal 34 (12), 1781-1791, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:hC7cP41nSMkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16727280487348612763",
+            "cites_id": [
+                "16727280487348612763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of vulnerabilities in blockchain smart contracts: a review",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Computational Intelligence, Communication …, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:3htObqc8RwsC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11749425632834326314",
+            "cites_id": [
+                "11749425632834326314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overcoming smart city barriers using multi-modal interpretive structural modeling",
+                "pub_year": "2023",
+                "citation": "Journal of Signal Processing Systems 95 (2), 253-269, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:a9-T7VOCCH8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1773186649519298891",
+            "cites_id": [
+                "1773186649519298891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bit mask-oriented genetic algorithm for grammatical inference and premature convergence",
+                "pub_year": "2018",
+                "citation": "International Journal of Bio-Inspired Computation 12 (1), 54-69, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15923527177801428387",
+            "cites_id": [
+                "15923527177801428387"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments",
+                "pub_year": "2023",
+                "citation": "Cluster Computing 26 (1), 847-862, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_5tno0g5mFcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5093911667459359451",
+            "cites_id": [
+                "5093911667459359451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voice assisted smart home automation system",
+                "pub_year": "2021",
+                "citation": "IET Digital Library, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ruyezt5ZtCIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16077697451779157147",
+            "cites_id": [
+                "16077697451779157147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trend analysis for retail chain using statistical analysis system",
+                "pub_year": "2020",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2018, 53-62, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:p__nRnzSRKYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7681326648867603101",
+            "cites_id": [
+                "7681326648867603101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling fault detection using SRGM in agile environment and ranking of models",
+                "pub_year": "2019",
+                "citation": "Journal of Cases on Information Technology (JCIT) 21 (2), 1-20, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:2KloaMYe4IUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1016194541168567952",
+            "cites_id": [
+                "1016194541168567952"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of decision tree in supplementing tacit knowledge for Hypothetico-Deduction in higher education",
+                "pub_year": "2018",
+                "citation": "International Journal of System Assurance Engineering and Management 9, 82-90, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7812883145658864808",
+            "cites_id": [
+                "7812883145658864808"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling fault detection with change-point in agile software development environment",
+                "pub_year": "2017",
+                "citation": "2017 International Conference on Infocom Technologies and Unmanned Systems …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:evX43VCCuoAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4948131720959899709",
+            "cites_id": [
+                "4948131720959899709"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of code smell to quantify the refactoring",
+                "pub_year": "2017",
+                "citation": "International Journal of System Assurance Engineering and Management 8, 1750 …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6851982935887379833",
+            "cites_id": [
+                "6851982935887379833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of genetic algorithm for developing knowledge centric environment in higher education",
+                "pub_year": "2017",
+                "citation": "International Journal of Hybrid Intelligent Systems 14 (1-2), 13-19, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Mojj43d5GZwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11880994856051336685",
+            "cites_id": [
+                "11880994856051336685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid edge-based fractal image encoding using K-NN search",
+                "pub_year": "2022",
+                "citation": "Multimedia Tools and Applications 81 (15), 21135-21154, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HtEfBTGE9r8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11914496752867294907",
+            "cites_id": [
+                "11914496752867294907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Objective Assessment in Java Programming Language Using Rubrics",
+                "pub_year": "2022",
+                "citation": "Journal of Information Technology Education: Innovations in Practice 21 (1 …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:nZcligLrVowC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17628782903577474491",
+            "cites_id": [
+                "17628782903577474491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial and temporal trends reveal: Hotspot identification of crimes using machine learning approach",
+                "pub_year": "2022",
+                "citation": "International Journal of Computational Science and Engineering 25 (2), 174-185, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:XvxMoLDsR5gC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15788077557813574301",
+            "cites_id": [
+                "15788077557813574301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage cbr based healthcare model to diagnose liver disease",
+                "pub_year": "2021",
+                "citation": "International Journal of Computing and Digital Systems 10, 1-8, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:S16KYo8Pm5AC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9702351524089041633",
+            "cites_id": [
+                "9702351524089041633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring code smells and anti-patterns",
+                "pub_year": "2019",
+                "citation": "2019 4th international conference on information systems and computer …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ILKRHgRFtOwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4329306052133951712",
+            "cites_id": [
+                "4329306052133951712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RDF Model Generation for Unstructured Dengue Patients' Clinical and Pathological Data",
+                "pub_year": "2019",
+                "citation": "International Journal of Information System Modeling and Design (IJISMD) 10 …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:oNZyr7d5Mn4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5693503577801029151",
+            "cites_id": [
+                "5693503577801029151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of ranking functions for retrieving information from medical repository",
+                "pub_year": "2019",
+                "citation": "Malaysian Journal of Computer Science 32 (1), 18-30, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tzM49s52ZIMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9987947615960648384",
+            "cites_id": [
+                "9987947615960648384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metaheuristic policies for discovery task programming matters in cloud computing",
+                "pub_year": "2018",
+                "citation": "2018 4th International Conference on Computing Communication and Automation …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:XD-gHx7UXLsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10279001809873431105",
+            "cites_id": [
+                "10279001809873431105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building CBR based diagnosis system using jCOLIBRI",
+                "pub_year": "2017",
+                "citation": "2017 7th International Conference on Cloud Computing, Data Science …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4072783804119589178",
+            "cites_id": [
+                "4072783804119589178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A push strategy for delivering of Learning Objects using meta data based association analysis (FP-Tree)",
+                "pub_year": "2013",
+                "citation": "2013 International Conference on Computer Communication and Informatics, 1-4, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17818889897607686515",
+            "cites_id": [
+                "17818889897607686515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecting and Dealing with Malicious Nodes Problem in MANET",
+                "pub_year": "2013",
+                "citation": "International Journal of Scientific & Engineering Research 4 (7), 161-13, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8328412138841459686",
+            "cites_id": [
+                "8328412138841459686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Normal modes and their dispersion in poly (α-isobutyl, β-l-aspartate): II. 13/4 Helix",
+                "pub_year": "2001",
+                "citation": "European polymer journal 37 (4), 829-841, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:IWHjjKOFINEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13254487514169003448",
+            "cites_id": [
+                "13254487514169003448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Network efficient topology for low power and lossy networks in smart corridor design using RPL",
+                "pub_year": "2022",
+                "citation": "International Journal of Pervasive Computing and Communications 18 (4), 419-436, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Ug5p-4gJ2f0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11509602414684281133",
+            "cites_id": [
+                "11509602414684281133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Query optimization in crowd-sourcing using multi-objective ant lion optimizer",
+                "pub_year": "2019",
+                "citation": "International Journal of Information Technology and Web Engineering (IJITWE …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:9Nmd_mFXekcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11883194096189547927",
+            "cites_id": [
+                "11883194096189547927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To calculate the usability of healthcare mobile applications using cognitive walkthrough",
+                "pub_year": "2019",
+                "citation": "Engineering Vibration, Communication and Information Processing: ICoEVCI …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_Ybze24A_UAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9049534082608499422",
+            "cites_id": [
+                "9049534082608499422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Factors Affecting Infant Mortality Rate Using Decision Tree in R Language",
+                "pub_year": "2019",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2017, 639-646, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:hkOj_22Ku90C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16692320460404824298",
+            "cites_id": [
+                "16692320460404824298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering the Patent Data Using K-Means Approach",
+                "pub_year": "2019",
+                "citation": "Software Engineering: Proceedings of CSI 2015, 639-645, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:WqliGbK-hY8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8562216972415196186",
+            "cites_id": [
+                "8562216972415196186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyse power consumption by mobile applications using fuzzy clustering approach",
+                "pub_year": "2018",
+                "citation": "International Journal of Engineering 31 (12), 2037-2043, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tKAzc9rXhukC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11340794523685807970",
+            "cites_id": [
+                "11340794523685807970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prioritizing the refactoring need for critical component using combined approach",
+                "pub_year": "2018",
+                "citation": "Decision Science Letters 7 (3), 257-272, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7797462170721498131",
+            "cites_id": [
+                "7797462170721498131"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical modelling approach to measure the usability of website",
+                "pub_year": "2016",
+                "citation": "International Journal of Software Engineering and Its Applications 10 (5 …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2895330780565634336",
+            "cites_id": [
+                "2895330780565634336"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applying CHAID algorithm to investigate critical attributes of secured interoperable health data exchange",
+                "pub_year": "2015",
+                "citation": "International Journal of Electronic Healthcare 8 (1), 25-50, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4699157756221067720",
+            "cites_id": [
+                "4699157756221067720"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Similarity Based Convergence of Learning  Knowledge Objects and Delivery Using  Agglomerative Clustering",
+                "pub_year": "2014",
+                "citation": "Journal of Information Technology and Application in Education 3 (1), 9-17, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5303940751497335764",
+            "cites_id": [
+                "5303940751497335764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Schemes and Practices of Learning Object Repository: A Literature Review",
+                "pub_year": "2013",
+                "citation": "International Journal of Computer Applications 65 (20), 27-32, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4468826291558397509",
+            "cites_id": [
+                "4468826291558397509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Information retrieval system assigning context to documents by Relevance feedback",
+                "pub_year": "2012",
+                "citation": "International Journal of Computer Applications 975, 8887, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604430160242098293",
+            "cites_id": [
+                "1604430160242098293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Normal modes and their dispersion in poly (α-isobutyl-β-l-aspartate): I. 4/1 Helix",
+                "pub_year": "2001",
+                "citation": "European polymer journal 37 (4), 815-828, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:mB3voiENLucC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7273450419598520343",
+            "cites_id": [
+                "7273450419598520343"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel random forest approach to predict phase transition",
+                "pub_year": "2022",
+                "citation": "International Journal of System Assurance Engineering and Management 13 (1 …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:hCrLmN-GePgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15804875981529655269",
+            "cites_id": [
+                "15804875981529655269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agile testing efficiency using an integrated approach of fuzzy-based MOORA and AHP",
+                "pub_year": "2021",
+                "citation": "International Journal of Performability Engineering 17 (2), 208, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:-FonjvnnhkoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4292410712684674108",
+            "cites_id": [
+                "4292410712684674108"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A literature review of critical success factors in agile testing method of software development",
+                "pub_year": "2021",
+                "citation": "Recent Innovations in Computing: Proceedings of ICRIC 2020, 859-870, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:M7yex6snE4oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4835967737982513514",
+            "cites_id": [
+                "4835967737982513514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An r2rml-based approach to map dengue patient database to ontology",
+                "pub_year": "2020",
+                "citation": "2020 8th International Conference on Reliability, Infocom Technologies and …, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:kuK5TVdYjLIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11528332307646690367",
+            "cites_id": [
+                "11528332307646690367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Label powerset based multi-label classification for mobile applications",
+                "pub_year": "2019",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2017, 671-678, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17893102316112276149",
+            "cites_id": [
+                "17893102316112276149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnosis of diabetic nature of a person using SVM and ANN approach",
+                "pub_year": "2017",
+                "citation": "2017 6th International Conference on Reliability, Infocom Technologies and …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:PELIpwtuRlgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1288190173851620974",
+            "cites_id": [
+                "1288190173851620974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of decision tree for understanding Indian educational scenario",
+                "pub_year": "2016",
+                "citation": "2016 International Conference on Electrical, Electronics, and Optimization …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:WbkHhVStYXYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14172152011135467594",
+            "cites_id": [
+                "14172152011135467594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing metrics for caching techniques for dynamic web site",
+                "pub_year": "2010",
+                "citation": "2010 International Conference on Computer and Communication Technology …, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2275625448049498307",
+            "cites_id": [
+                "2275625448049498307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phonons and their dispersion in poly(S‐benzyl‐L‐cysteine)",
+                "pub_year": "1999",
+                "citation": "Journal of Polymer Science Part B: Polymer Physics 37 (23), 3269-3287, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4838401338534081315",
+            "cites_id": [
+                "4838401338534081315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multistep transitions in collagens",
+                "pub_year": "1998",
+                "citation": "Journal of Macromolecular Science, Part B: Physics 37 (6), 723-746, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:qUcmZB5y_30C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11659483746041264544",
+            "cites_id": [
+                "11659483746041264544"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handwriting analysis ai-based system for assisting people with dysgraphia",
+                "pub_year": "2023",
+                "citation": "International Conference on Computational Science, 185-199, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:r_AWSJRzSzQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17081277585626300524",
+            "cites_id": [
+                "17081277585626300524"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interoperability of electronic health records for dyslipidemia using knowledge graphs",
+                "pub_year": "2023",
+                "citation": "2023 13th International Conference on Cloud Computing, Data Science …, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:yFnVuubrUp4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18383086782291912966",
+            "cites_id": [
+                "18383086782291912966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalability in Blockchain-Hyperledger Fabric and Hierarchical Model",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Global Conference on Computing, Power and Communication …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:dBIO0h50nwkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15093691671207635732",
+            "cites_id": [
+                "15093691671207635732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing ambulance deployment using genetic algorithm",
+                "pub_year": "2021",
+                "citation": "2021 9th International Conference on Reliability, Infocom Technologies and …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:rmuvC79q63oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4943906048535094768",
+            "cites_id": [
+                "4943906048535094768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Code Smell Refactoring for Energy Optimization of Android Apps",
+                "pub_year": "2021",
+                "citation": "Innovations in Cyber Physical Systems: Select Proceedings of ICICPS 2020 …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:PVjk1bu6vJQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8506386947023272548",
+            "cites_id": [
+                "8506386947023272548"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis on protocol-based intrusion detection system using artificial intelligence",
+                "pub_year": "2021",
+                "citation": "Machine Intelligence and Smart Systems: Proceedings of MISS 2020, 131-143, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:PoWvk5oyLR8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6050068145346049679",
+            "cites_id": [
+                "6050068145346049679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining protein conformation using vibrational frequencies: an ensemble approach",
+                "pub_year": "2020",
+                "citation": "International Journal of Data Mining and Bioinformatics 23 (2), 142-159, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:KUbvn5osdkgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2255992232136743636",
+            "cites_id": [
+                "2255992232136743636"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-power generating indoor air purifier robot",
+                "pub_year": "2020",
+                "citation": "International Journal of Computing and Digital Systems 9 (1), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:AvfA0Oy_GE0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17113881046992266498",
+            "cites_id": [
+                "17113881046992266498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ranking the access control models for secured sharing of EHR using fuzzy TOPSIS technique",
+                "pub_year": "2019",
+                "citation": "International Journal of Electronic Healthcare 11 (1), 45-66, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:TIZ-Mc8IlK0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4499418475737941083",
+            "cites_id": [
+                "4499418475737941083"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel multi-parameter tuned optimizer for information retrieval based on particle swarm optimization",
+                "pub_year": "2019",
+                "citation": "Int J Recent Technol Eng 8 (3), 1723-1731, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4MWp96NkSFoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4432429571383597235",
+            "cites_id": [
+                "4432429571383597235"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Emperical Study: Relevance Feedback in Information Retrieval Systems",
+                "pub_year": "2017",
+                "citation": "2017 International Conference on Current Trends in Computer, Electrical …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:UHK10RUVsp4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2630854866304961150",
+            "cites_id": [
+                "2630854866304961150"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Task based effectiveness evaluation of educational institute websites",
+                "pub_year": "2016",
+                "citation": "2016 international conference on computational techniques in information and …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1151286580147968401",
+            "cites_id": [
+                "1151286580147968401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring informativeness of a web document",
+                "pub_year": "2016",
+                "citation": "2016 6th International Conference-Cloud System and Big Data Engineering …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:dshw04ExmUIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3901782778959291475",
+            "cites_id": [
+                "3901782778959291475"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic-Based Weighted Aggregation Model for Optimization of Student’s Performance in Higher Education",
+                "pub_year": "2016",
+                "citation": "Proceedings of Fifth International Conference on Soft Computing for Problem …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:yD5IFk8b50cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15874799338544409012",
+            "cites_id": [
+                "15874799338544409012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective curriculum development through rule induction in knowledge centric higher education organization",
+                "pub_year": "2013",
+                "citation": "Confluence 2013, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11847843148022286356",
+            "cites_id": [
+                "11847843148022286356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phonon dispersion in 1, 4-cis-poly-(2-methyl-1, 3-pentadiene)",
+                "pub_year": "2000",
+                "citation": "Journal of Macromolecular Science, Part B 39 (1), 39-51, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15501246597868573911",
+            "cites_id": [
+                "15501246597868573911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dispersion of normal modes in 1, 4-trans-poly (1, 3-pentadiene)",
+                "pub_year": "1999",
+                "citation": "Polymer 40 (23), 6395-6404, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:-f6ydRqryjwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4757107602907515833",
+            "cites_id": [
+                "4757107602907515833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Breaking barriers: paving the path to sustainable fashion–insights for a greener apparel and textile sector",
+                "pub_year": "2024",
+                "citation": "Journal of Advances in Management Research, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_OXeSy2IsFwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8330475650463648865",
+            "cites_id": [
+                "8330475650463648865"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-objective fitness dependent optimizer for workflow scheduling",
+                "pub_year": "2024",
+                "citation": "Applied Soft Computing 152, 111247, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Ehil0879vHcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2326777532007788462",
+            "cites_id": [
+                "2326777532007788462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new approach to simulate the dynamic behavior of particulate matter using a canny edge detector embedded PIV algorithm",
+                "pub_year": "2023",
+                "citation": "The Visual Computer 39 (9), 4293-4304, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:sNmaIFBj_lkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9137185146574820080",
+            "cites_id": [
+                "9137185146574820080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking the Bagging and Boosting (B & B) Algorithms for Modeling Optimized Autonomous Intrusion Detection Systems (AIDS)",
+                "pub_year": "2023",
+                "citation": "SN Computer Science 4 (5), 465, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:yMeIxYmEMEAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12713115177765331533",
+            "cites_id": [
+                "12713115177765331533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Knowledge Representation and Information Retrieval from Ontologies",
+                "pub_year": "2023",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2022, 765-775, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ODE9OILHJdcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5742757538822244791",
+            "cites_id": [
+                "5742757538822244791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A RDF model-based predictive model on dengue patients' diagnostic PDF reports",
+                "pub_year": "2023",
+                "citation": "International Journal of Electronic Healthcare 13 (2), 113-133, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:OcBU2YAGkTUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10394845553029450035",
+            "cites_id": [
+                "10394845553029450035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transformation of Logistics Value Chain for Enhancing Cross-Border Trade Using Blockchain and IoT",
+                "pub_year": "2022",
+                "citation": "Transformations Through Blockchain Technology: The New Digital Revolution …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:NXb4pA-qfm4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12173603591921792393",
+            "cites_id": [
+                "12173603591921792393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constituent vs Dependency Parsing-Based RDF Model Generation from Dengue Patients’ Case Sheets",
+                "pub_year": "2022",
+                "citation": "Journal of Information & Knowledge Management 21 (01), 2250013, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:FAceZFleit8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046227933277778257",
+            "cites_id": [
+                "2046227933277778257"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A convergence time predictive model using machine learning for LLN",
+                "pub_year": "2021",
+                "citation": "2021 IEEE 8th Uttar Pradesh Section International Conference on Electrical …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_axFR9aDTf0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4889919009602108209",
+            "cites_id": [
+                "4889919009602108209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the Supervised Machine Learning Algorithms for Human Activity Recognition Using Smartphone",
+                "pub_year": "2021",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2020, Volume …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:foquWX3nUaYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1672727144466378988",
+            "cites_id": [
+                "1672727144466378988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the best network security using EDAS",
+                "pub_year": "2020",
+                "citation": "2020 10th International Conference on Cloud Computing, Data Science …, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:hMsQuOkrut0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=130182260294705730",
+            "cites_id": [
+                "130182260294705730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of quasi-euclidean distance-based similarity model for retrieving information from OHSUMED dataset",
+                "pub_year": "2020",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2018, 661-669, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:EYYDruWGBe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16525992873045298480",
+            "cites_id": [
+                "16525992873045298480"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing ontology by integrating facts from unstructured data and mapping with linguistic knowledge",
+                "pub_year": "2019",
+                "citation": "International Journal of Computing and Digital Systems 8 (6), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:EkHepimYqZsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16266691296232572467",
+            "cites_id": [
+                "16266691296232572467"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complexity metrics for component-based software system",
+                "pub_year": "2019",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2017, 13-22, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ZuybSZzF8UAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=100653013895036548",
+            "cites_id": [
+                "100653013895036548"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Navigational complexity metrics of a website",
+                "pub_year": "2019",
+                "citation": "Software Engineering: Proceedings of CSI 2015, 433-440, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16270530126534508744",
+            "cites_id": [
+                "16270530126534508744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pubworld-A R2RML mapping driven approach to transform relational database data into shareable format",
+                "pub_year": "2018",
+                "citation": "2018 IEEE 8th International Advance Computing Conference (IACC), 221-227, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ipzZ9siozwsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7186802370160459319",
+            "cites_id": [
+                "7186802370160459319"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relevance Feedback on Mobile Data Using RapidMiner",
+                "pub_year": "2018",
+                "citation": "2018 4th International Conference on Applied and Theoretical Computing and …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:BwyfMAYsbu0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6676283727668686272",
+            "cites_id": [
+                "6676283727668686272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical Review on Image Compression Using Fractal Image Coding",
+                "pub_year": "2018",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2016, Volume …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15011703168564579368",
+            "cites_id": [
+                "15011703168564579368"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The relationship between user preferences in interactive information retrieval evaluation",
+                "pub_year": "2017",
+                "citation": "2017 6th International Conference on Reliability, Infocom Technologies and …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9533238101729290840",
+            "cites_id": [
+                "9533238101729290840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data Convergence Techniques from different from Different Health Records into Single Platform -A survey",
+                "pub_year": "2016",
+                "citation": "IJCTA 9 (19), 9267-9277, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:geHnlv5EZngC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14180286050653219746",
+            "cites_id": [
+                "14180286050653219746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Software Fault Prediction Metrics",
+                "pub_year": "2014",
+                "citation": "World Applied Sciences Journal 32 (3), 368-378, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=744255516441485791",
+            "cites_id": [
+                "744255516441485791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emerging new trends in transmission of real time application (VoIP) to NGN by RTP",
+                "pub_year": "2013",
+                "citation": "International Journal of Advanced Research in Computer Science and Software …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1657646632500463526",
+            "cites_id": [
+                "1657646632500463526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement Learning Model for Detecting Phishing Websites",
+                "pub_year": "2024",
+                "citation": "Cybersecurity and Artificial Intelligence: Transformational Strategies and …, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ZzlSgRqYykMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4775547164422110139",
+            "cites_id": [
+                "4775547164422110139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart Contract Vulnerabilities: Exploring the Technical and Economic Aspects",
+                "pub_year": "2024",
+                "citation": "Blockchain Transformations: Navigating the Decentralized Protocols Era, 81-91, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:5MTHONV0fEkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844243464541909430",
+            "cites_id": [
+                "4844243464541909430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalability Performance Analysis of Blockchain Using Hierarchical Model in Healthcare",
+                "pub_year": "2024",
+                "citation": "Blockchain in Healthcare Today 7, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Aul-kAQHnToC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7003134155392967891",
+            "cites_id": [
+                "7003134155392967891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing the Performance of Nature-Inspired Optimization Algorithms with Modified Grey Wolf Optimization for VM Migration Problems",
+                "pub_year": "2023",
+                "citation": "Wireless Personal Communications 131 (4), 2649-2674, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:yqoGN6RLRZoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3456304348138471553",
+            "cites_id": [
+                "3456304348138471553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the future trends for circular economy",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:LhH-TYMQEocC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1884565678489313540",
+            "cites_id": [
+                "1884565678489313540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing the website usage using process mining",
+                "pub_year": "2023",
+                "citation": "International Journal of Quality & Reliability Management, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:fFSKOagxvKUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=37484360346788430",
+            "cites_id": [
+                "37484360346788430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Imputation Techniques Analysis for Incomplete Medical Datasets in Case-Based Reasoning System",
+                "pub_year": "2023",
+                "citation": "2023 13th International Conference on Cloud Computing, Data Science …, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:bKqednn6t2AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8201499033883373076",
+            "cites_id": [
+                "8201499033883373076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing RPL using E-MOF: a fuzzy-based mobility model for IoV",
+                "pub_year": "2022",
+                "citation": "Peer-to-Peer Networking and Applications 15 (6), 2557-2571, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:WJVC3Jt7v1AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6590990861032728336",
+            "cites_id": [
+                "6590990861032728336"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Analysis of Time Series Data",
+                "pub_year": "2022",
+                "citation": "Data, Engineering and Applications: Select Proceedings of IDEA 2021, 225-235, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:OTTXONDVkokC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13070373711521166175",
+            "cites_id": [
+                "13070373711521166175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applications of Big Five Personality Test in Job Performance",
+                "pub_year": "2022",
+                "citation": "International Conference on Advances and Applications of Artificial …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:OP4eGU-M3BUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2973654911805461982",
+            "cites_id": [
+                "2973654911805461982"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Addressing Scalability Issues in Blockchain: A Use case from Healthcare",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:2VqYfGB8ITEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16005730774446515478",
+            "cites_id": [
+                "16005730774446515478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Review for Cyber Security Challenges on Big Data Using Machine Learning Techniques",
+                "pub_year": "2022",
+                "citation": "ICT and Data Sciences, 135-148, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:umqufdRvDiIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17306030923031539335",
+            "cites_id": [
+                "17306030923031539335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Particulate Matter PM2.5 Concentration using Random Forest Regressor with Hyperparameter Tuning",
+                "pub_year": "2022",
+                "citation": "2022 12th International Conference on Cloud Computing, Data Science …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4hFrxpcac9AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6179900458482021087",
+            "cites_id": [
+                "6179900458482021087"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The facets of machine learning in lane change prediction of vehicular traffic flow",
+                "pub_year": "2022",
+                "citation": "Proceedings of International Conference on Intelligent Cyber-Physical …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:8d8msizDQcsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11605956176610053019",
+            "cites_id": [
+                "11605956176610053019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is refactoring a solution to resolve code smell?",
+                "pub_year": "2022",
+                "citation": "International Journal of System of Systems Engineering 12 (4), 371-385, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HIFyuExEbWQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17084568649871853400",
+            "cites_id": [
+                "17084568649871853400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extensive Feature Analysis and Baseline Model for Stance Detection Task",
+                "pub_year": "2022",
+                "citation": "Cyber Intelligence and Information Retrieval: Proceedings of CIIR 2021, 103-115, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:86PQX7AUzd4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11737778813786347199",
+            "cites_id": [
+                "11737778813786347199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Socialization between quarantine vehicle and road side unit for handling covid-19: A concept",
+                "pub_year": "2021",
+                "citation": "2021 9th International Conference on Reliability, Infocom Technologies and …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Ri6SYOTghG4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10233313633430432585",
+            "cites_id": [
+                "10233313633430432585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementing Deep Learning Algorithm on Physicochemical Properties of Proteins",
+                "pub_year": "2021",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2020, Volume …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:0N-VGjzr574C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11633833928262034207",
+            "cites_id": [
+                "11633833928262034207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalability in Blockchain",
+                "pub_year": "2021",
+                "citation": "2021 12th International Conference on Computing Communication and Networking …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:kh2fBNsKQNwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15301776371024233586",
+            "cites_id": [
+                "15301776371024233586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Establishing Inter-vehicle communication using simulation tools",
+                "pub_year": "2021",
+                "citation": "2021 11th International Conference on Cloud Computing, Data Science …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:i2xiXl-TujoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15114264239470760016",
+            "cites_id": [
+                "15114264239470760016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Analysis of Collaborative-Based Recommender System",
+                "pub_year": "2021",
+                "citation": "Innovations in Cyber Physical Systems: Select Proceedings of ICICPS 2020, 69-78, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:5qfkUJPXOUwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3421664964072077181",
+            "cites_id": [
+                "3421664964072077181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring and evaluating best practices in Agile testing environment using AHP",
+                "pub_year": "2021",
+                "citation": "Advances in interdisciplinary research in engineering and business …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:xtoqd-5pKcoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14492652148816857118",
+            "cites_id": [
+                "14492652148816857118"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Access Control Solution for Cross-Tenancy in a Cloud Environment",
+                "pub_year": "2021",
+                "citation": "Security Issues and Privacy Threats in Smart Ubiquitous Computing, 111-129, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:SpbeaW3--B0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8977920232579379575",
+            "cites_id": [
+                "8977920232579379575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image correlation method to simulate physical characteristic of particulate matter",
+                "pub_year": "2020",
+                "citation": "International Journal of System Assurance Engineering and Management 11 (2 …, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:nrtMV_XWKgEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4644641358646249671",
+            "cites_id": [
+                "4644641358646249671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particulate Matter Estimation Based on Haze Degree Factor",
+                "pub_year": "2020",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2018, 769-779, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:vbGhcppDl1QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15488083111478648143",
+            "cites_id": [
+                "15488083111478648143"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decision making on critical component using combined approach",
+                "pub_year": "2020",
+                "citation": "Automated Software Testing: Foundations, Applications and Challenges 15, 143-165, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Z5m8FVwuT1cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1987306777047916513",
+            "cites_id": [
+                "1987306777047916513"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Metrics for Predicting the Reliability of Individual Component Based on Software Design Metrics",
+                "pub_year": "2020",
+                "citation": "Automated Software Testing: Foundations, Applications and Challenges 15, 79-94, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:BUYA1_V_uYcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9450273865600836860",
+            "cites_id": [
+                "9450273865600836860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hierarchy similarity analyser-an approach to securely share electronic health records",
+                "pub_year": "2020",
+                "citation": "Data Analytics in Medicine: Concepts, Methodologies, Tools, and Applications …, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:f2IySw72cVMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6104499520532541577",
+            "cites_id": [
+                "6104499520532541577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Information retrieval on green mining dataset using divergence from randomness models",
+                "pub_year": "2019",
+                "citation": "International Conference on Innovative Computing and Communications …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Fu2w8maKXqMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9849926158863182636",
+            "cites_id": [
+                "9849926158863182636"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Field based weighting information retrieval on document field of Ad hoc dataset",
+                "pub_year": "2019",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2017, 75-83, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16528220675090768346",
+            "cites_id": [
+                "16528220675090768346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conceptualizing smart city in indian prospective",
+                "pub_year": "2018",
+                "citation": "​ Smart Cities Symposium 2018, 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_Re3VWB3Y0AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7643104483769713755",
+            "cites_id": [
+                "7643104483769713755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electricity generating and monitoring system using IoT",
+                "pub_year": "2018",
+                "citation": "​ Smart Cities Symposium 2018, 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7100848052135674541",
+            "cites_id": [
+                "7100848052135674541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relevance Index for Inferred Knowledge in Higher Education Domain Using Data Mining",
+                "pub_year": "2018",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2016, Volume …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HE397vMXCloC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14836873268020145482",
+            "cites_id": [
+                "14836873268020145482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing ANFIS model to predict the reliability of component-based system",
+                "pub_year": "2018",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2016, Volume …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:t6usbXjVLHcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13172007185164442542",
+            "cites_id": [
+                "13172007185164442542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Decision Tree Approach to Identify the Factors Affecting Reliability for Component-Based System",
+                "pub_year": "2018",
+                "citation": "Smart Computing and Informatics: Proceedings of the First International …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:bnK-pcrLprsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9530653042112697257",
+            "cites_id": [
+                "9530653042112697257"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison and analysis of information retrieval DFR models",
+                "pub_year": "2018",
+                "citation": "Smart Computing and Informatics: Proceedings of the First International …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:5ugPr518TE4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1214157702020666212",
+            "cites_id": [
+                "1214157702020666212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Adaptive Neuro-Fuzzy Model to Predict the Reliability before Testing Phase",
+                "pub_year": "2017",
+                "citation": "International Journal of Computer Information Systems and Industrial …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14872994686001197415",
+            "cites_id": [
+                "14872994686001197415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of Criteria Affecting the Usability of Academic Institutes Websites",
+                "pub_year": "2017",
+                "citation": "International Journal of Technology Diffusion (IJTD) 8 (3), 20-40, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12703318829659180932",
+            "cites_id": [
+                "12703318829659180932"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swarm and Evolutionary Computation",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:1qzjygNMrQYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=882453134803521097",
+            "cites_id": [
+                "882453134803521097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting Reliability from Frequent Errors Using A-priori Algorithm",
+                "pub_year": "2013",
+                "citation": "World Applied Sciences Journal 28 (5), 654-658, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7296887407773001037",
+            "cites_id": [
+                "7296887407773001037"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling and reusability the design issues of software metric for component based system",
+                "pub_year": "2009",
+                "citation": "Proceedings of International Conference on Dependable Computing and Internet …, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1761537595213993039",
+            "cites_id": [
+                "1761537595213993039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the future trends for circular economy",
+                "pub_year": "2024",
+                "citation": "International Journal of System Assurance Engineering and Management, 1-18, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:artPoR2Yc-kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Multi-Workflow Scheduling: A Comparative Analysis of Real-time Data",
+                "pub_year": "2024",
+                "citation": "2024 IEEE Congress on Evolutionary Computation (CEC), 1-6, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:5icHVeHT4IsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of vulnerabilities in blockchain smart contracts using deep learning",
+                "pub_year": "2024",
+                "citation": "Wireless Networks, 1-17, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:u-coK7KVo8oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multivariate Time Series Forecasting of Municipal Solid Waste",
+                "pub_year": "2024",
+                "citation": "2024 11th International Conference on Reliability, Infocom Technologies and …, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:lvd772isFD0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Framework for Blockchain-Enabled Smart Contract Management System of Arms and Ammunition for Defence Industry",
+                "pub_year": "2024",
+                "citation": "2024 11th International Conference on Reliability, Infocom Technologies and …, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:fbc8zXXH2BUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Multi-Workflow Scheduling Analysis of Realtime Healthcare Ecosystem: An Emerging Research Area.",
+                "pub_year": "2024",
+                "citation": "Grenze International Journal of Engineering & Technology (GIJET) 10, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:GFxP56DSvIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Edge-Ward Computational Offloading for Smart Waste Management System",
+                "pub_year": "2023",
+                "citation": "International Conference on Soft Computing: Theories and Applications, 185-194, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:tH6gc1N1XXoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of India’s Regionally Disparate Recovery from the Second Wave of Coronavirus Using Machine Learning",
+                "pub_year": "2023",
+                "citation": "SN Computer Science 5 (1), 89, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:P7Ujq4OLJYoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Audio Metadata Tagging",
+                "pub_year": "2023",
+                "citation": "International Conference on Cognitive Computing and Cyber Physical Systems …, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:gKiMpY-AVTkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rule-Based Learner Competencies Predictor System",
+                "pub_year": "2023",
+                "citation": "International Conference on MAchine inTelligence for Research & Innovations …, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:8xutWZnSdmoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handwriting Analysis for Dysgraphia Using Machine Learning",
+                "pub_year": "2023",
+                "citation": "International Conference on Artificial-Business Analytics, Quantum and …, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:vDZJ-YLwNdEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Integration of Hadoop and a Smart Utility Scoring with a Case-Based Reasoning System for Managing Large and Complex Medical Case Base",
+                "pub_year": "2023",
+                "citation": "Journal of Information & Knowledge Management 22 (01), 2250081, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:QYdC8u9Cj1oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Study of Different Approaches of Offloading for Mobile Cloud Computing",
+                "pub_year": "2022",
+                "citation": "International Conference on Innovations in Data Analytics, 159-168, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:OR75R8vi5nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combating Challenges in Health Care Using Blockchain",
+                "pub_year": "2022",
+                "citation": "Inventive Communication and Computational Technologies: Proceedings of …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:9c2xU6iGI7YC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the Secondary Structure of Proteins: A Deep Learning Approach",
+                "pub_year": "2022",
+                "citation": "Current Proteomics 19 (5), 400-411, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4vMrXwiscB8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvised Protocol for Enhancement of Security in Internet of Vehicles",
+                "pub_year": "2022",
+                "citation": "International Journal of Sensors Wireless Communications and Control 12 (7 …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:mNrWkgRL2YcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction: Static to dynamic transition of RPL protocol from IoT to IoV in static and mobile environments",
+                "pub_year": "2022",
+                "citation": "Cluster Computing 26, 863, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HeT0ZceujKMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent Accident Rescue System",
+                "pub_year": "2022",
+                "citation": "International Conference on Trends and Recent Advances in Civil Engineering …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:a3BOlSfXSfwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Convergence Time Predictive Model using Machine Learning for LLN",
+                "pub_year": "2022",
+                "citation": "8th\" IEEE Uttar Pradesh Section International Conference on Electrical …, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:cWzG1nlazyYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi Kernel Support Vector Machine for Particulate Matter Estimation",
+                "pub_year": "2022",
+                "citation": "Asian Journal of Water, Environment and Pollution 19 (5), 89-95, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:IRz6iEL74y4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and measuring attributes influencing agile implementation in an enterprise using structural equation modelling",
+                "pub_year": "2022",
+                "citation": "International Journal of Applied Management Science 14 (1), 3-22, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:0izLItjtcgwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usefulness of Rubric in Assessing Writing Skills Using Clustering",
+                "pub_year": "2021",
+                "citation": "2021 5th International Conference on Information Systems and Computer …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:anf4URPfarAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Swift Approach for Malware Detection",
+                "pub_year": "2021",
+                "citation": "Advanced Computing Techniques: Implementation, Informatics and Emerging …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:9pM33mqn1YgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internet Privacy Concerns and Social Awareness",
+                "pub_year": "2021",
+                "citation": "Advanced Computing Techniques: Implementation, Informatics and Emerging …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:YohjEiUPhakC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Health Measure Kit and Finding A Potential Covid-19 Suspect Using IoT",
+                "pub_year": "2021",
+                "citation": "2021 4th International Conference on Recent Developments in Control …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:GtLg2Ama23sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stylometric Analysis of Writing Patterns Using Artificial Neural Networks",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Innovation and Intelligence for Informatics …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:4fGpz3EwCPoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Feature Selection to Improve Vehicular Network Lifetime",
+                "pub_year": "2021",
+                "citation": "International Conference on Cyber Security, Privacy and Networking, 57-68, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HtS1dXgVpQUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying Quarantine Centers and Resource Allocation Using Optimization Techniques",
+                "pub_year": "2021",
+                "citation": "2021 9th International Conference on Reliability, Infocom Technologies and …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:bz8QjSJIRt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction to: Segregation of Speech and Music Signals for Aiding the Hearing Impaired",
+                "pub_year": "2021",
+                "citation": "Nanoelectronics, Circuits and Communication Systems: Proceeding of NCCS 2019 …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:XoXfffV-tXoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Crop Protection Techniques Involving IoT",
+                "pub_year": "2021",
+                "citation": "Advances in Water Resources and Transportation Engineering: Select …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HbR8gkJAVGIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segregation of Speech and Music Signals for Aiding the Hearing Impaired",
+                "pub_year": "2021",
+                "citation": "Nanoelectronics, Circuits and Communication Systems: Proceeding of NCCS 2019 …, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:LI9QrySNdTsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An IoT enabled medical box",
+                "pub_year": "2020",
+                "citation": "3rd Smart Cities Symposium (SCS 2020) 2020, 477-481, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:q3CdL3IzO_QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation and Performance Analysis of Tilted Time Window and Support Vector Machine Based Learning Object Ranking Method",
+                "pub_year": "2020",
+                "citation": "Recent Advances in Electrical & Electronic Engineering (Formerly Recent …, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:g3aElNc5_aQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Early Reliability Prediction Model Integrating Halstead’s Metrics and Fuzzy Usage",
+                "pub_year": "2020",
+                "citation": "Automated Software Testing: Foundations, Applications and Challenges 15, 111-123, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2021 4th International Conference on Recent Developments in Control, Automation &Power Engineering (RDCAPE) 7-8 October 2019 Department of Electrical & Electronics Engineering",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_FM0Bhl9EiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Break Point Analysis of Particulate Matter",
+                "pub_year": "2019",
+                "citation": "Asian Journal of Water, Environment and Pollution 16 (4), 117-121, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:vDijr-p_gm4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient bandwidth utilization using reserved bits of transmission control protocol header",
+                "pub_year": "2019",
+                "citation": "IET Digital Library, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:0KyAp5RtaNEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and visualization model for a GPS dataset of moving vehicle",
+                "pub_year": "2019",
+                "citation": "IET Digital Library, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:yB1At4FlUx8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automation of Business Cards",
+                "pub_year": "2019",
+                "citation": "Advances in Interdisciplinary Engineering: Select Proceedings of FLAME 2018 …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative Analysis of Wavelet Encoder and Hybrid Wavelet-Based Fractal Encoder for Image",
+                "pub_year": "2019",
+                "citation": "Advances in Interdisciplinary Engineering: Select Proceedings of FLAME 2018 …, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:j8SEvjWlNXcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the Refactoring Index Using Entropy Approach",
+                "pub_year": "2019",
+                "citation": "Code Generation, Analysis Tools, and Testing for Quality, 161-178, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:7T2F9Uy0os0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Cognitive Information Retrieval Using POP Inference Engine Approaches",
+                "pub_year": "2019",
+                "citation": "Emerging Trends and Applications in Cognitive Computing, 35-48, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:NJ774b8OgUMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "White Noise Removal to Enhance Clarity of Sports Commentary",
+                "pub_year": "2019",
+                "citation": "Soft Computing: Theories and Applications: Proceedings of SoCTA 2017, 629-638, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:1yQoGdGgb4wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phenomenology Ethnomethodology analysis of\" website usability\"",
+                "pub_year": "2018",
+                "citation": "2018 International Conference on Computational Techniques, Electronics and …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial Mining of Web-Log to observe reachability of Website",
+                "pub_year": "2018",
+                "citation": "2018 4th International Conference on Computational Intelligence …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:JQOojiI6XY0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web-Log Trend Pattern Analysis with Temporal Approach",
+                "pub_year": "2018",
+                "citation": "2018 8th International Conference on Cloud Computing, Data Science …, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:N5tVd3kTz84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping of the vector space model with cognitive skills of the user using fuzzy approach",
+                "pub_year": "2018",
+                "citation": "Intelligent Decision Technologies 12 (4), 461-469, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feature selection approach for reducing the power consumption for a greener environment",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Conference on Telecommunication and Networks (TEL-NET …, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-Operability In Incompatible Access Control Models",
+                "pub_year": "2017",
+                "citation": "Journal of Network and Innovative Computing 5, 8-8, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:F9fV5C73w3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-Operability In Incompatible Access Control Models",
+                "pub_year": "2017",
+                "citation": "Journal of Network and Innovative Computing 5 (1), pp. 025-032, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:VLnqNzywnoUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "E-Commerce Website Design improvement based on Web usage Mining",
+                "pub_year": "2017",
+                "citation": "International journal of control thoery and applications 10 (15), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Different Attributes of Authorship Data using Data Mining Approach",
+                "pub_year": "2016",
+                "citation": "Indian Journal of Science and Technology 9, 45, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:lmc2jWPfTJgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The BMODS: A powerful 2-D representation scheme for the GA's population",
+                "pub_year": "2016",
+                "citation": "2016 6th International Conference-Cloud System and Big Data Engineering …, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "[Final accepted version] Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+                "pub_year": "2016",
+                "citation": "Swarm and Evolutionary Computation 31, 11, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:KbBQZpvPDL4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fuzzy association rule mining approach using movie lens dataset",
+                "pub_year": "2016",
+                "citation": "CSI Transactions on ICT 4 (2), 249–254, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Weighted Clustering Approach to Map and Prioritise Learning Knowledge Objects towards Learning Approaches",
+                "pub_year": "2016",
+                "citation": "International Journal of Emerging Technologies in Learning (Online) 11 (6), 28, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accessibility Issues in Interoperable Sharing of Electronic Health Records: Physician’s Perspective",
+                "pub_year": "2016",
+                "citation": "Contemporary Consumer Health Informatics, 199-218, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:a0OBvERweLwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Year of Publication: 2015",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:nVrZBo8bIpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "International Journal of Emerging Technologies in Computational and Applied Sciences (IJETCAS) www. iasir. net",
+                "pub_year": "2014",
+                "citation": "International Journal of Emerging Technologies in Computational and Applied …, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topic Sensitive & Preference Learning Based Solution For Information Retrieval From Learning Object Repository",
+                "pub_year": "2014",
+                "citation": "International Journal of Applied Engineering Research 9 (24), 29351-29369, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer Architecture",
+                "pub_year": "2013",
+                "citation": "Alpha Science International, Ltd, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emerging New Trends in Transmission of Real Time Application(VOIP) to NGN By RTP",
+                "pub_year": "2013",
+                "citation": "International Journal of Advanced Research in Computer Science and Software …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSING AND SIMULATING USER FEEDBACK IN  NEURAL NETWORK",
+                "pub_year": "2013",
+                "citation": "International Journal Of Advance Research In Science And Engineering 2 (6 …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving Network Reliability and QOS in EOIP Through Application Layer Signaling Protocol",
+                "pub_year": "2013",
+                "citation": "International Journal of Innovative Research in Computer and Communication …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "“Relevance feedback based semantic Learning object repository”",
+                "pub_year": "2013",
+                "citation": "Emerging Research in Computing, Information, Communication and Applications …, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vertical alveolar distraction in reconstructed or resorbed mandible: a clinical trial",
+                "pub_year": "2012",
+                "citation": "British Journal of Oral and Maxillofacial Surgery 50, S40-S41, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Spectroscopic Study of Various Conformational States of Poly(-benzyl,L-aspartate)",
+                "pub_year": "1999",
+                "citation": "8th European Conference on Spectroscopy of Biological Molecules, 51-52, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A spectroscopic study of various conformational states of poly (β-benzyI, L-aspartate)",
+                "pub_year": "1999",
+                "citation": "Spectroscopy of Biological Molecules: New Directions: 8th European …, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chaitanya Singla 407",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:b1wdh0AR-JQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Committee 2 Messages 5",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:URolC5Kub84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining Regularity and Generalization in Data using MDL and GA: Case of Grammatical Inference",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:-_dYPAW6P2MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Middlesex University Research Repository",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:35r97b3x0nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Decision Tree for understanding Indian Educational Scenario",
+                "citation": "International Conference on Electrical, Electronics, and Optimization …, 0"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ICRITO’2017 Conference Committees",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Challenges and Recommendations to Healthcare Data Exchange in an Interoperable Environment",
+                "citation": "eJHI 8 (2), 0"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ACCT 2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative Review of Selection Techniques in Genetic Algorithm",
+                "citation": "2015 1st International Conference on Futuristic trend in Computational …, 0"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ICRITO 2014 Committee",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Triangulation of Mobile & Role of NMR (New Trends in Telecom Networks)",
+                "citation": "ICCE, 0"
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Last Date of Paper Submission is 30 November, 2018 Authors can directly submit your research paper to editor@ ijritcc. org Authors can request for fast publicaton, So that …",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relevance Feedback Based Semantic Learning Object Repository",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "r_Sa3pAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

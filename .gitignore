@@ -1,0 +1,12 @@
+node_modules/
+Autopost/
+Avatar/
+chroma_data/
+Search/
+Data/
+zips/
+chroma.log
+express_server/.env
+AcademiaAssistant/AcademiaAssistant/Summary/.env
+AcademiaAssistant/AcademiaAssistant/plugins
+express_server/oauth.json
